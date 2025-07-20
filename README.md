@@ -1,7 +1,9 @@
 <div align="center">
   
-# Hi there, I'm Panchanan Nath! 👋
-## 🛡️ Cybersecurity Researcher | 🎓 PhD Scholar | 🔬 Academic Explorer
+# Hi, I'm Er. Panchanan Nath! 👋
+
+## 📶 Intermittent Computing | 🌐 Multi-access Edge Computing (MEC) |🚪 Early Exit Networks |💾 Near Data Processing (NDP) |🔐 Secure Data Offloading |🕵️ Security Researcher |⛓️ Blockchain |📡 5G & B5G |🧠 AI / ML
+## 🎓 PhD Scholar |🛡️ Cybersecurity Researcher | 🎓 PhD Scholar | 🔬 Academic Explorer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Research+%26+Innovation;AI+%2B+Blockchain+for+Security;Building+Secure+Tomorrow+🚀" alt="Typing SVG" />
 
