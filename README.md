@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Research+%26+Innovation;AI+%2B+Blockchain+for+Security;Building+Secure+Tomorrow+🚀" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Research+%26+Innovation;AI+%2B+Blockchain+for+Security;Building+Secure+Tomorrow+🚀;📶+Intermittent+Computing;🌐+Multi-access+Edge+Computing+(MEC);🚪+Early+Exit+Networks;💾+Near+Data+Processing+(NDP);🔐+Secure+Data+Offloading;🕵️+Security+Researcher;⛓️+Blockchain;📡+5G+%26+B5G;🧠+AI+%2F+ML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=📶+Intermittent+Computing;🌐+Multi-access+Edge+Computing+(MEC);🚪+Early+Exit+Networks;💾+Near+Data+Processing+(NDP);🔐+Secure+Data+Offloading;🕵️+Security+Researcher;⛓️+Blockchain;📡+5G+%26+B5G;🧠+AI+%2F+ML" alt="Typing SVG" />
 
 
 
