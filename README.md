@@ -18,7 +18,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 - 🔬 **Current Research:** AI and Blockchain-based Source Code Vulnerability Detection
 - 🏛️ **Institution:** Indian Institute of Information Technology Guwahati
 - 📚 **Background:** Former Assistant Professor, Industry Expert, Security Consultant
-- 🌐 **Website:** [Professional Profile](https://sites.google.com/iiitg.ac.in/erpanchanannath)
+- 🌐 **Website:** [Check Profile](https://sites.google.com/iiitg.ac.in/erpanchanannath)
 - 📍 **Location:** Kokrajhar, Assam, India
 
 ---
