@@ -3,7 +3,7 @@
 # Hi, I'm Er. Panchanan Nath! 👋
 
 
-## 🎓 PhD Scholar |🛡️ Cybersecurity Researcher | 🔬 Academic Explorer| 📡 5G & B5G |🧠 AI / ML | 
+## 🎓 PhD Scholar |🧠 AI / ML && 🛡️ Security Researcher | 🔬 Academic Explorer| 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Research+%26+Innovation;AI+%2B+Blockchain+for+Security;Building+Secure+Tomorrow+🚀" alt="Typing SVG" />
 
