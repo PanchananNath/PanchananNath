@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Er. Panchanan Nath! 👋
+# Hi, I'm Er. Panchanan Nath! 
 
 
 ## 🎓 PhD Scholar |🧠 AI / ML && 🛡️ Security Researcher | 🔬 Academic Explorer| 
@@ -20,7 +20,7 @@
 
 I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience in **cybersecurity research, AI-based vulnerability detection, and blockchain security**. Previously served as Assistant Professor at NIST University and have been actively involved in industry through EC-Council R&D and as Co-founder of EncryptoCyberspace.
 
-- 🔬 **Current Research:** AI and Blockchain-based Source Code Vulnerability Detection
+- 🔬 **Current Research:** Early Exit Deep Neural Networks, Multi-acess Edge Computing, 
 - 🏛️ **Institution:** Indian Institute of Information Technology Guwahati
 - 📚 **Background:** Former Assistant Professor, Industry Expert, Security Consultant
 - 🌐 **Website:** [Check Profile](https://sites.google.com/iiitg.ac.in/erpanchanannath)
