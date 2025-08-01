@@ -49,7 +49,6 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 
 **📚 Published Research:**
 - *"AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development"* - Computers and Electrical Engineering (2023)
-- Multiple collaborative works with researchers from IIIT Guwahati and international institutions
 
 ---
 
