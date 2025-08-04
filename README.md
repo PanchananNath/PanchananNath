@@ -24,7 +24,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 - 🏛️ **Institution:** Indian Institute of Information Technology Guwahati
 - 📚 **Background:** Former Assistant Professor, Industry Expert, Security Consultant
 - 🌐 **Website:** [Check Profile](https://sites.google.com/iiitg.ac.in/erpanchanannath)
-- 📍 **Location:** Kokrajhar, Assam, India
+- 📍 **Location:** Guwahati, Assam, India
 
 ---
 
