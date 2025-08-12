@@ -8,7 +8,7 @@
 ---
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Research+%26+Innovation;AI+%2B+Blockchain+for+Security;Building+Secure+Tomorrow+🚀" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=📶+Intermittent+Computing;🌐+Multi-access+Edge+Computing+(MEC);🚪+Early+Exit+Networks;💾+Near+Data+Processing+(NDP);🔐+Secure+Data+Offloading;🕵️+Security+Researcher;⛓️+Blockchain;📡+5G+%26+B5G;🧠+AI+%2F+ML" alt="Typing SVG" /> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=📶+Intermittent+Computing;🌐+Multi-access+Edge+Computing+(MEC);🚪+Early+Exit+Networks;💾+Near+Data+Processing+(NDP);🔐+Secure+Data+Offloading;🕵️+Security+Researcher;⛓️+Blockchain;📡+5G+%26+B5G;🧠+AI+%2F+ML" alt="Typing SVG" /> 
 
 
 ---
@@ -23,13 +23,14 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 - 📍 **Location:** Guwahati, Assam, India
 
 ---
+-->
 
 ## 🛡️ Current Research Focus & Expertise
 
 ## 📶 Intermittent Computing | 🌐 Multi-access Edge Computing (MEC) |🚪 Early Exit Networks |💾 Near Data Processing (NDP) |🔐 Secure Data Offloading |🕵️ Security Researcher |⛓️ Blockchain |📡 5G & B5G |🧠 AI / ML
 </div>
 
-
+<!--
 <div align="center">
 
 ### 🔐 Core Research Areas
@@ -46,6 +47,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 - **Secure Offloading** & Intermittent Computing
 - **Digital Twin** & Network Slicing Security
 - **Cryptographic Algorithm Development** (3-DES, Substitution Ciphers)
+-->
 
 **📚 Published Research:**
 - *"AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development"* - Computers and Electrical Engineering (2023)
@@ -74,6 +76,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 
 </div>
 
+<!--
 **🛡️ Cybersecurity Expertise:**
 - **Network Defense & Infrastructure Security**
 - **Web Penetration Testing & Ethical Hacking**
@@ -105,6 +108,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 </div>
 
 ---
+-->
 
 ## 🏆 Academic & Professional Achievements
 
@@ -125,7 +129,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 - **Industry Collaborations** with EC-Council R&D Team
 
 ---
-
+<!--
 ## 🔬 Featured Research Projects
 
 <div align="center">
@@ -162,13 +166,14 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 </div>
+-->
 
 **📧 Research Collaborations:** Open for academic partnerships and industry consultations  
 **🎤 Speaking:** Available for conferences, workshops, and cybersecurity seminars  
 **🤝 Mentoring:** Passionate about guiding next-generation cybersecurity professionals
 
 ---
-
+<!--
 ## 🎯 Current Focus & Future Goals
 
 **🔬 Research Pipeline:**
@@ -187,7 +192,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 - Advancing cybersecurity education through innovative teaching methods
 
 ---
-
+-->
 <div align="center">
 
 ## 💡 "Security is not a product, but a process" - Bruce Schneier
@@ -199,6 +204,6 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 
 ---
 
-*Last updated: July 2025 | Built with ❤️ and lots of ☕*
+*Last updated: Aug 2025*
 
 </div>
