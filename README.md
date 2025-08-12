@@ -25,7 +25,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ---
 -->
 
-## 🛡️ Current Research Focus & Expertise
+# Current Research Focus & Expertise
 
 ## 📶 Intermittent Computing | 🌐 Multi-access Edge Computing (MEC) |🚪 Early Exit Networks |💾 Near Data Processing (NDP) |🔐 Secure Data Offloading |🕵️ Security Researcher |⛓️ Blockchain |📡 5G & B5G |🧠 AI / ML
 </div>
