@@ -53,6 +53,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 - *Nath, P.*, Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). *AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development*. Computers and Electrical Engineering, 106, 108607.
 - Singh, P. K., Brahma, M., *Nath, P.*, & Ghosh, U. (2023, May). *A study on secure network slicing in 5G*. In 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW) (pp. 52-61). IEEE.
 - Choudhury, B., Singh, P. K., Nath, P., Roy, U., & Kalla, A. (2025). Blockchain and Smart Contract for Decentralized and Secure Spectrum Management Toward 6G–Beyond Hype. Intelligent Spectrum Management: Towards 6G, 211-236.
+- Nath, P., Singh, P. K., Kalla, A., & Brahma, M. (2023, January). VNFTestChain: Blockchain based test framework for trusted VNF services in 5G and B5G. In 2023 15th International Conference on COMmunication Systems & NETworkS (COMSNETS) (pp. 495-497). IEEE.
 ---
 
 ## 💻 Technical Skills & Tools
