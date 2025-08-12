@@ -49,8 +49,8 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 - **Cryptographic Algorithm Development** (3-DES, Substitution Ciphers)
 -->
 
-**📚 Published Research:**
-- *"AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development"* - Computers and Electrical Engineering (2023)
+**📚 Published Research Works:**
+- *Nath, P.*, Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). *AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development*. Computers and Electrical Engineering, 106, 108607.
 
 ---
 
