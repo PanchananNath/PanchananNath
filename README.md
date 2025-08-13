@@ -199,7 +199,7 @@
 - **Associate Editor** - Compute@NIST Departmental E-magazine
 
 **👨‍🏫 Impact:**
-- **500+ Students Mentored** in cybersecurity domains through ASDM
+- **500+ Students Mentored** in cybersecurity domains through ASDM, NIELIT
 - **Multiple Research Publications** in high-impact journals
 - **Industry Collaborations** with EC-Council R&D Team
 
@@ -270,7 +270,7 @@
 -->
 <div align="center">
 
-## 💡 "Security is neither a product, nor a process but the Philosophy" - The Philosophy is Higher the Security Lower the Usability || Lower the Security Higher the Usability.
+## 💡 "Security is neither a product, nor a process but the Philosophy" - The Philosophy is :: Higher the Security Lower the Usability || Lower the Security Higher the Usability.
 
 ### 🚀 Building Secure Systems | 🔬 Advancing Research | 🎓 Educating Future Experts
 
