@@ -32,26 +32,9 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ### 📶 Intermittent Computing 🌐 Multi-access Edge Computing (MEC) 🚪 Early Exit AI / ML 💾 Near Data Processing (NDP) 🔐 Secure Data Offloading  ⛓️ Blockchain 📡 5G & B5G 
 </div>
 
-<!--
-<div align="center">
 
-### 🔐 Core Research Areas
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Research-red?style=for-the-badge&logo=security&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-Security-blue?style=for-the-badge&logo=blockchain&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI/ML-Security-green?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network-Security-orange?style=for-the-badge&logo=network&logoColor=white)
 
-</div>
-
-**🔬 Research Specializations:**
-- **AI & Blockchain-based Vulnerability Detection** for Multi-party Software Development
-- **5G/B5G Network Security** & Spectrum Sharing
-- **Secure Offloading** & Intermittent Computing
-- **Digital Twin** & Network Slicing Security
-- **Cryptographic Algorithm Development** (3-DES, Substitution Ciphers)
--->
-
-**📚 Published Research Works:**
+##📚 Published Research Works:**
 - *Nath, P.*, Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). *AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development*. Computers and Electrical Engineering, 106, 108607.
   
 - Singh, P. K., Brahma, M., *Nath, P.*, & Ghosh, U. (2023, May). *A study on secure network slicing in 5G*. In 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW) (pp. 52-61). IEEE.
