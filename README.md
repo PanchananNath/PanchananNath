@@ -75,13 +75,63 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 
-### Security & Research Tools
+<!--- ### Security & Research Tools
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+![OpenCV](https://skillicons.dev/icons?i=opencv) -->
+
+### Security & Research Tools
+
+#### Core Platforms
+![Linux](https://skillicons.dev/icons?i=linux)
+![Kali](https://skillicons.dev/icons?i=kali)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
+![GCP](https://skillicons.dev/icons?i=gcp)
+
+#### Development & Analysis
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![Go](https://skillicons.dev/icons?i=go)
+![Rust](https://skillicons.dev/icons?i=rust)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Powershell](https://skillicons.dev/icons?i=powershell)
+![R](https://skillicons.dev/icons?i=r)
+![Matlab](https://skillicons.dev/icons?i=matlab)
+
+#### Security Tools
+![Wireshark](https://skillicons.dev/icons?i=wireshark)
+![Metasploit](https://skillicons.dev/icons?i=metasploit)
+![BurpSuite](https://skillicons.dev/icons?i=burpsuite)
+![Nmap](https://skillicons.dev/icons?i=nmap)
+![OWASP](https://skillicons.dev/icons?i=owasp)
+
+#### Research & Data Science
+![Jupyter](https://skillicons.dev/icons?i=jupyter)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)
+
+#### Development Environment
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Vim](https://skillicons.dev/icons?i=vim)
+![Neovim](https://skillicons.dev/icons?i=neovim)
+
 
 </div>
 
