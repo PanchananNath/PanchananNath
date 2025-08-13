@@ -70,8 +70,12 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ### Programming Languages
 ![Python](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
-![CSharp](https://skillicons.dev/icons?i=cs)
+![CPP](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
+![CSharp](https://skillicons.dev/icons?i=cs)
+![Go](https://skillicons.dev/icons?i=go)
+![Rust](https://skillicons.dev/icons?i=rust)
+![R](https://skillicons.dev/icons?i=r)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 
@@ -95,16 +99,12 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ![GCP](https://skillicons.dev/icons?i=gcp)
 
 #### Development & Analysis
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![Go](https://skillicons.dev/icons?i=go)
-![Rust](https://skillicons.dev/icons?i=rust)
+
+
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Powershell](https://skillicons.dev/icons?i=powershell)
-![R](https://skillicons.dev/icons?i=r)
+
 ![Matlab](https://skillicons.dev/icons?i=matlab)
 
 #### Security Tools
