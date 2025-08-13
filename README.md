@@ -104,7 +104,6 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ![Vim](https://skillicons.dev/icons?i=vim)
 ![Neovim](https://skillicons.dev/icons?i=neovim)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
