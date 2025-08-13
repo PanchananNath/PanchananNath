@@ -272,7 +272,7 @@
 
 ## 💡 "Security is neither a product, nor a process but the Philosophy" - The Philosophy is :: Higher the Security Lower the Usability || Lower the Security Higher the Usability.
 
-### 🚀 Building Secure Systems | 🔬 Advancing Research | 🎓 Educating Future Experts
+###  Building Secure Systems ||  Advancing Research ||  Educating Future Experts
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PanchananNath&color=green&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/PanchananNath?style=social)](https://github.com/PanchananNath)
