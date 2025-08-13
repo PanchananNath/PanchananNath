@@ -79,13 +79,6 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 
-<!--- ### Security & Research Tools
-![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![OpenCV](https://skillicons.dev/icons?i=opencv) -->
 
 ### Core and Cloud Platforms
 ![Linux](https://skillicons.dev/icons?i=linux)
@@ -155,6 +148,32 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticstack&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
+### 📝 Standard Documentation Tools for Academic Research & Writing
+
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![BibTeX](https://img.shields.io/badge/BibTeX-FF6600?logo=latex&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?logo=googledocs&logoColor=white)
+![LibreOffice Writer](https://img.shields.io/badge/LibreOffice%20Writer-18A303?logo=libreoffice&logoColor=white)
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?logo=zotero&logoColor=white)
+![Mendeley](https://img.shields.io/badge/Mendeley-A41F35?logo=mendeley&logoColor=white)
+![EndNote](https://img.shields.io/badge/EndNote-FF0000?logo=endnote&logoColor=white)
+![Grammarly](https://img.shields.io/badge/Grammarly-15C39A?logo=grammarly&logoColor=white)
+![Hemingway Editor](https://img.shields.io/badge/Hemingway%20Editor-FF6600?logo=writing&logoColor=white)
+![Turnitin](https://img.shields.io/badge/Turnitin-FF0000?logo=turnitin&logoColor=white)
+![PlagScan](https://img.shields.io/badge/PlagScan-003399?logo=security&logoColor=white)
+![QuillBot](https://img.shields.io/badge/QuillBot-00A67E?logo=quillbot&logoColor=white)
+![RefWorks](https://img.shields.io/badge/RefWorks-FF6F00?logo=refworks&logoColor=white)
+![Scrivener](https://img.shields.io/badge/Scrivener-000000?logo=writing&logoColor=white)
+![LyX](https://img.shields.io/badge/LyX-005C5C?logo=latex&logoColor=white)
+![Pandoc](https://img.shields.io/badge/Pandoc-333333?logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 </div>
 
