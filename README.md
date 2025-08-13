@@ -151,7 +151,6 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ### 📝 Standard Documentation Tools for Academic Research & Writing
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
-![BibTeX](https://img.shields.io/badge/BibTeX-FF6600?logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white)
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?logo=googledocs&logoColor=white)
@@ -169,11 +168,8 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ![LyX](https://img.shields.io/badge/LyX-005C5C?logo=latex&logoColor=white)
 ![Pandoc](https://img.shields.io/badge/Pandoc-333333?logo=markdown&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 </div>
 
