@@ -116,8 +116,6 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 
 ### 🛡 Cybersecurity & Penetration Testing Tools
 
-### 🛡 Cybersecurity & Penetration Testing Tools
-
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
 ![Parrot Security](https://img.shields.io/badge/Parrot%20Security-1BA2E0?logo=linux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-000000?logo=linux&logoColor=white)
