@@ -270,7 +270,11 @@
 -->
 <div align="center">
 
-## 💡 "Security is neither a product, nor a process but the Philosophy" - The Philosophy is :: Higher the Security Lower the Usability || Lower the Security Higher the Usability.
+## 💡 "Security is neither a product, nor a process but the Philosophy" 
+
+The Philosophy is
+
+Higher the Security Lower the Usability || Lower the Security Higher the Usability.
 
 ###  Building Secure Systems ||  Advancing Research ||  Educating Future Experts
 
