@@ -116,11 +116,14 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ![Matlab](https://skillicons.dev/icons?i=matlab)
 
 ### Security Tools
+
+![Kali Linux](https://skillicons.dev/icons?i=kalilinux)
 ![Wireshark](https://skillicons.dev/icons?i=wireshark)
 ![Metasploit](https://skillicons.dev/icons?i=metasploit)
 ![BurpSuite](https://skillicons.dev/icons?i=burpsuite)
 ![Nmap](https://skillicons.dev/icons?i=nmap)
 ![OWASP](https://skillicons.dev/icons?i=owasp)
+![Splunk](https://skillicons.dev/icons?i=splunk)
 
 </div>
 
