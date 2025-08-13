@@ -87,9 +87,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![OpenCV](https://skillicons.dev/icons?i=opencv) -->
 
-### Security & Research Tools
-
-#### Core Platforms
+### Core and Cloud Platforms
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Kali](https://skillicons.dev/icons?i=kali)
 ![Docker](https://skillicons.dev/icons?i=docker)
