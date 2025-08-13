@@ -68,11 +68,11 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 <div align="left">
 
 ### Programming Languages
-![Python](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
 ![CPP](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
 ![CSharp](https://skillicons.dev/icons?i=cs)
+![Python](https://skillicons.dev/icons?i=python)
 ![Go](https://skillicons.dev/icons?i=go)
 ![Rust](https://skillicons.dev/icons?i=rust)
 ![R](https://skillicons.dev/icons?i=r)
