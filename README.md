@@ -2,28 +2,20 @@
   
 # Hi, I'm Er. Panchanan Nath! 
 
-
 ## 🎓 PhD Scholar 🛡️ System, Network and Security Researcher 🧠 Human in the era of AI
 
----
 </div>
 
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Research+%26+Innovation;AI+%2B+Blockchain+for+Security;Building+Secure+Tomorrow+🚀" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=📶+Intermittent+Computing;🌐+Multi-access+Edge+Computing+(MEC);🚪+Early+Exit+Networks;💾+Near+Data+Processing+(NDP);🔐+Secure+Data+Offloading;🕵️+Security+Researcher;⛓️+Blockchain;📡+5G+%26+B5G;🧠+AI+%2F+ML" alt="Typing SVG" /> 
-
-
 ---
 ## 🚀 About Me
-
-I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience in **cybersecurity research, AI-based vulnerability detection, and blockchain security**. Previously served as Assistant Professor at NIST University and have been actively involved in industry through EC-Council R&D and as Co-founder of EncryptoCyberspace.
-
 - 🔬 **Current Research:** Early Exit Deep Neural Networks, Multi-acess Edge Computing, Intermittent Computing, Secure Data Offloading, 
 - 🏛️ **Institution:** Indian Institute of Information Technology Guwahati
 - 📚 **Background:** Former Assistant Professor, Industry Expert, Security Consultant
 - 🌐 **Website:** [Check Profile](https://sites.google.com/iiitg.ac.in/erpanchanannath)
 - 📍 **Location:** Guwahati, Assam, India
-
 ---
 -->
 
@@ -33,6 +25,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 </div>
 
 
+---
 
 ##📚 Published Research Works:
 - *Nath, P.*, Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). *AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development*. Computers and Electrical Engineering, 106, 108607.
