@@ -104,6 +104,13 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ![Vim](https://skillicons.dev/icons?i=vim)
 ![Neovim](https://skillicons.dev/icons?i=neovim)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Jupyter](https://skillicons.dev/icons?i=jupyter)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Powershell](https://skillicons.dev/icons?i=powershell)
 ![Matlab](https://skillicons.dev/icons?i=matlab)
@@ -114,16 +121,6 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ![BurpSuite](https://skillicons.dev/icons?i=burpsuite)
 ![Nmap](https://skillicons.dev/icons?i=nmap)
 ![OWASP](https://skillicons.dev/icons?i=owasp)
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-
-
 
 </div>
 
