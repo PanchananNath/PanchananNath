@@ -65,7 +65,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 
 ## 💻 Technical Skills & Tools
 
-<div align="center">
+<div align="left">
 
 ### Programming Languages
 ![Python](https://skillicons.dev/icons?i=python)
@@ -96,7 +96,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![GCP](https://skillicons.dev/icons?i=gcp)
 
-#### Development Environment
+### Development Environment
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![GitLab](https://skillicons.dev/icons?i=gitlab)
@@ -108,7 +108,7 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ![Powershell](https://skillicons.dev/icons?i=powershell)
 ![Matlab](https://skillicons.dev/icons?i=matlab)
 
-#### Security Tools
+### Security Tools
 ![Wireshark](https://skillicons.dev/icons?i=wireshark)
 ![Metasploit](https://skillicons.dev/icons?i=metasploit)
 ![BurpSuite](https://skillicons.dev/icons?i=burpsuite)
@@ -121,9 +121,6 @@ I'm a **PhD Doctoral Researcher** at **IIIT Guwahati** with extensive experience
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-
-#### Research & Data Science
-
 
 
 
