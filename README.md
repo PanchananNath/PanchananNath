@@ -270,7 +270,7 @@
 -->
 <div align="center">
 
-## 💡 "Security is not a product, but a process" - Bruce Schneier
+## 💡 "Security is neither a product, nor a process but the Philosophy" - The Philosophy is Higher the Security Lower the Usability || Lower the Security Higher the Usability.
 
 ### 🚀 Building Secure Systems | 🔬 Advancing Research | 🎓 Educating Future Experts
 
