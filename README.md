@@ -21,7 +21,7 @@
 
 # 🕵️Current Research Focus & Expertise
 
-###  Intermittent Computing 🌐 Multi-access Edge Computing (MEC) 🚪 Early Exit AI / ML 💾 Near Data Processing (NDP) 🔐 Secure Data Offloading  ⛓️ Blockchain 📡 5G & B5G 
+###  Intermittent Computing  Multi-access Edge Computing (MEC) 🚪 Early Exit AI / ML 💾 Near Data Processing (NDP) 🔐 Secure Data Offloading  ⛓️ Blockchain 📡 5G & B5G 
 </div>
 
 
