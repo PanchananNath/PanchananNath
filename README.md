@@ -184,7 +184,13 @@
 
 ---
 -->
+### Cybersecurity Certifications
 
+#### Foundational
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white)](#)
+[![CEH](https://img.shields.io/badge/CEH-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
+[![Cisco CCNA Security](https://img.shields.io/badge/CCNA%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
+---
 ## 🏆 Academic & Professional Achievements
 
 **🎓 Academic Positions:**
@@ -197,7 +203,6 @@
 - **Cyber Crime Intervention Officer** - Information Sharing And Analysis Center
 - **ARIIA Coordinator** - Institute Innovation Council, NIST University
 - **Associate Editor** - Compute@NIST Departmental E-magazine
-
 **👨‍🏫 Impact:**
 - **500+ Students Mentored** in cybersecurity domains through ASDM, NIELIT
 - **Multiple Research Publications** in high-impact journals
