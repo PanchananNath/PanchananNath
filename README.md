@@ -19,7 +19,7 @@
 ---
 -->
 
-# 🕵️Current Research Focus & Expertise
+# 🕵️Current eesearch focus & expertise
 
 ####  Multi-access Edge Computing | Intermittent Computing | Early Exit Deep Learning | Near Data Processing | Secure Data Offloading | Blockchain | 5G & B5G 
 </div>
