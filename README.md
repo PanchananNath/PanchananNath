@@ -184,7 +184,7 @@
 
 ---
 -->
-### Cybersecurity Certifications
+## Cybersecurity Certifications
 
 #### Network Security
 [![CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
