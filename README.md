@@ -186,10 +186,32 @@
 -->
 ### Cybersecurity Certifications
 
-#### Foundational
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white)](#)
+### Cybersecurity Certifications
+
+#### Network Security
+[![CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![NSE1](https://img.shields.io/badge/Fortinet_NSE_1-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](#)
+[![NSE2](https://img.shields.io/badge/Fortinet_NSE_2-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](#)
+
+#### Security Fundamentals
+[![ISC2 CC](https://img.shields.io/badge/ISC2_CC-ff0000?style=for-the-badge&logo=isc2&logoColor=white)](#)
+[![CyberArk PAM](https://img.shields.io/badge/CyberArk_PAM-000000?style=for-the-badge&logo=cyberark&logoColor=white)](#)
+[![CNSS](https://img.shields.io/badge/ICSI_CNSS-228B22?style=for-the-badge&logo=securityscorecard&logoColor=white)](#)
+
+#### Ethical Hacking & Defense
 [![CEH](https://img.shields.io/badge/CEH-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
-[![Cisco CCNA Security](https://img.shields.io/badge/CCNA%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA_CySA+-ED1C24?style=for-the-badge&logo=comptia&logoColor=white)](#)
+[![CompTIA PenTest+](https://img.shields.io/badge/CompTIA_PenTest+-ED1C24?style=for-the-badge&logo=comptia&logoColor=white)](#)
+[![EHE](https://img.shields.io/badge/EC_Council_EHE-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
+[![NDE](https://img.shields.io/badge/EC_Council_NDE-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
+
+#### Specialized Certifications
+[![CCIO](https://img.shields.io/badge/ISAC_CCIO-FF9933?style=for-the-badge&logo=government&logoColor=white)](#)
+[![CCSP](https://img.shields.io/badge/Global_Tech_Council_CCSP-00008B?style=for-the-badge&logo=globalsign&logoColor=white)](#)
+[![CSCU](https://img.shields.io/badge/EC_Council_CSCU-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
+
+#### Networking Foundations
+[![Networking Diploma](https://img.shields.io/badge/Alison_Networking_Diploma-00BFFF?style=for-the-badge&logo=alison&logoColor=white)](#)
 ---
 ## 🏆 Academic & Professional Achievements
 
