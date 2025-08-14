@@ -186,16 +186,14 @@
 -->
 ### Cybersecurity Certifications
 
-### Cybersecurity Certifications
-
 #### Network Security
 [![CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
 [![NSE1](https://img.shields.io/badge/Fortinet_NSE_1-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](#)
 [![NSE2](https://img.shields.io/badge/Fortinet_NSE_2-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](#)
 
-#### Security Fundamentals
-[![ISC2 CC](https://img.shields.io/badge/ISC2_CC-ff0000?style=for-the-badge&logo=isc2&logoColor=white)](#)
-[![CyberArk PAM](https://img.shields.io/badge/CyberArk_PAM-000000?style=for-the-badge&logo=cyberark&logoColor=white)](#)
+#### Security Foundations
+[![ISC2 CC](https://img.shields.io/badge/ISC2_Certified_in_Cybersecurity-ff0000?style=for-the-badge&logo=isc2&logoColor=white)](#)
+[![CyberArk PAM](https://img.shields.io/badge/CyberArk_Privileged_Access_Management-000000?style=for-the-badge&logo=cyberark&logoColor=white)](#)
 [![CNSS](https://img.shields.io/badge/ICSI_CNSS-228B22?style=for-the-badge&logo=securityscorecard&logoColor=white)](#)
 
 #### Ethical Hacking & Defense
@@ -206,7 +204,7 @@
 [![NDE](https://img.shields.io/badge/EC_Council_NDE-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
 
 #### Specialized Certifications
-[![CCIO](https://img.shields.io/badge/ISAC_CCIO-FF9933?style=for-the-badge&logo=government&logoColor=white)](#)
+[![CCIO](https://img.shields.io/badge/ISAC_CCIO-FF9933?style=for-the-badge&logo=government&logoColor=black)](#)
 [![CCSP](https://img.shields.io/badge/Global_Tech_Council_CCSP-00008B?style=for-the-badge&logo=globalsign&logoColor=white)](#)
 [![CSCU](https://img.shields.io/badge/EC_Council_CSCU-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
 
