@@ -27,7 +27,7 @@
 
 ---
 
-## 📚 Published Research Works:
+## 📚 Published esearch Works:
 - *Nath, P.*, Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). *AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development*. Computers and Electrical Engineering, 106, 108607.
   
 - Singh, P. K., Brahma, M., *Nath, P.*, & Ghosh, U. (2023, May). *A study on secure network slicing in 5G*. In 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW) (pp. 52-61). IEEE.  
