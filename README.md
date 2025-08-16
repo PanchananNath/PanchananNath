@@ -217,10 +217,11 @@
 - 
 
 **🏅 Professional Roles:**
-- **Co-founder** - EncryptoCyberspace
+- **Founder & CEO** - EncryptoCyberspace
 - **Cyber Crime Intervention Officer** - Information Sharing And Analysis Center
 - **ARIIA Coordinator** - Institute Innovation Council, NIST University
 - **Associate Editor** - Compute@NIST Departmental E-magazine
+  
 **👨‍🏫 Impact:**
 - **500+ Students Mentored** in cybersecurity domains through ASDM, NIELIT
 - **Multiple Research Publications** in high-impact journals
