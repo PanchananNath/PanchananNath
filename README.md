@@ -212,8 +212,9 @@
 
 **🎓 Academic Positions:**
 - **PhD Doctoral Researcher** - IIIT Guwahati (Current)
-- **Assistant Professor** - NIST University (July 2024 - March 2025)
 - **ASTEC Project Staff** - Assam Science Technology & Environment Council
+- **Assistant Professor** - NIST University (July 2024 - March 2025)
+- 
 
 **🏅 Professional Roles:**
 - **Co-founder** - EncryptoCyberspace
