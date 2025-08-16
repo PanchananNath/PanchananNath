@@ -207,8 +207,6 @@
 [![CCSP](https://img.shields.io/badge/Global_Tech_Council_CCSP-00008B?style=for-the-badge&logo=globalsign&logoColor=white)](#)
 [![CSCU](https://img.shields.io/badge/EC_Council_CSCU-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
 
-#### Networking Foundations
-
 ---
 ## 🏆 Academic & Professional Achievements
 
