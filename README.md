@@ -195,9 +195,6 @@
 [![CNSS](https://img.shields.io/badge/ICSI_CNSS-228B22?style=for-the-badge&logo=securityscorecard&logoColor=white)](#)
 [![Networking Diploma](https://img.shields.io/badge/Alison_Networking_Diploma-00BFFF?style=for-the-badge&logo=alison&logoColor=white)](#)
 
-#### Security Foundations
-
-
 #### Ethical Hacking & Defense
 [![CEH](https://img.shields.io/badge/CEH-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
 [![CompTIA CySA+](https://img.shields.io/badge/CompTIA_CySA+-ED1C24?style=for-the-badge&logo=comptia&logoColor=white)](#)
