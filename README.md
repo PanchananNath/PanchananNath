@@ -67,7 +67,7 @@
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![GCP](https://skillicons.dev/icons?i=gcp)
 
-### Development Environment
+### Development Environments
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![GitLab](https://skillicons.dev/icons?i=gitlab)
@@ -186,15 +186,17 @@
 -->
 ## Cybersecurity Certifications
 
-#### Network Security
+#### Network & Security
 [![CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
 [![NSE1](https://img.shields.io/badge/Fortinet_NSE_1-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](#)
 [![NSE2](https://img.shields.io/badge/Fortinet_NSE_2-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](#)
-
-#### Security Foundations
 [![ISC2 CC](https://img.shields.io/badge/ISC2_Certified_in_Cybersecurity-ff0000?style=for-the-badge&logo=isc2&logoColor=white)](#)
 [![CyberArk PAM](https://img.shields.io/badge/CyberArk_Privileged_Access_Management-000000?style=for-the-badge&logo=cyberark&logoColor=white)](#)
 [![CNSS](https://img.shields.io/badge/ICSI_CNSS-228B22?style=for-the-badge&logo=securityscorecard&logoColor=white)](#)
+[![Networking Diploma](https://img.shields.io/badge/Alison_Networking_Diploma-00BFFF?style=for-the-badge&logo=alison&logoColor=white)](#)
+
+#### Security Foundations
+
 
 #### Ethical Hacking & Defense
 [![CEH](https://img.shields.io/badge/CEH-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
@@ -209,7 +211,7 @@
 [![CSCU](https://img.shields.io/badge/EC_Council_CSCU-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
 
 #### Networking Foundations
-[![Networking Diploma](https://img.shields.io/badge/Alison_Networking_Diploma-00BFFF?style=for-the-badge&logo=alison&logoColor=white)](#)
+
 ---
 ## 🏆 Academic & Professional Achievements
 
