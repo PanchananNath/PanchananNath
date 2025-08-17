@@ -16,7 +16,7 @@
 - 📚 **Background:** Former Assistant Professor, Industry Expert, Security Consultant
 - 🌐 **Website:** [Check Profile](https://sites.google.com/iiitg.ac.in/erpanchanannath)
 - 📍 **Location:** Guwahati, Assam, India
----
+
 -->
 
 # 🕵️Current eesearch focus & expertise
