@@ -221,13 +221,13 @@
 - **Cyber Crime Intervention Officer** - Information Sharing And Analysis Center
 - **ARIIA Coordinator** - Institute Innovation Council, NIST University
 - **Associate Editor** - Compute@NIST Departmental E-magazine
-- Reviewer
-- J1. IEEE Open Access Journal for Communication Society.
-- C2. 1st International Conference on Sustainable Computing and Intelligent Systems (ICSCIS 2025) :: Jaipur, India
-- C3. International Conference on Digital Technologies and Applications :: Ifrane, Morocco
-- C4. 3rd International Conference on Data Science and Network Security (ICDSNS-2025)  :: Tiptur, India
-- C5. 1st International Conference on Intelligent Computing and Knowledge Extraction (ICICKE - 2025) :: Bengaluru, India
-- C6. 3rd International Conference on Data Science and Information System (ICDSIS - 2025) :: Hassan, India
+- Technical and academic reviewer
+  - J1. IEEE Open Access Journal for Communication Society.
+  - C2. 1st International Conference on Sustainable Computing and Intelligent Systems (ICSCIS 2025) :: Jaipur, India
+  - C3. International Conference on Digital Technologies and Applications :: Ifrane, Morocco
+  - C4. 3rd International Conference on Data Science and Network Security (ICDSNS-2025)  :: Tiptur, India
+  - C5. 1st International Conference on Intelligent Computing and Knowledge Extraction (ICICKE - 2025) :: Bengaluru, India
+  - C6. 3rd International Conference on Data Science and Information System (ICDSIS - 2025) :: Hassan, India
   
 **👨‍🏫 Impact:**
 - **500+ Students Mentored** in cybersecurity domains through ASDM, NIELIT
