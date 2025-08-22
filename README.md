@@ -214,7 +214,6 @@
 - **PhD Doctoral Researcher** - IIIT Guwahati (Current)
 - **ASTEC Project Staff** - Assam Science Technology & Environment Council
 - **Assistant Professor** - NIST University (July 2024 - March 2025)
-- 
 
 **🏅 Professional Roles:**
 - **Founder & CEO** - EncryptoCyberspace
