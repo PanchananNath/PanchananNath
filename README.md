@@ -41,6 +41,15 @@
 - Nath, P. The joy and pain of security in the era of generative AI, 5G, and beyond networks. NIST University
 ---
 
+## Research works under review:
+- NP Mohapatra, SR Pattanaik, D Maharana, P Nath (2025). Advance Analysis of Battery Durability Leveraging Machine Learning Techniques and Genetic Algorithm for Feature Assessment and Optimization. Next Research  
+- NP Mohapatra, P Nath, SR Pattanaik (2025). PriBraTFedDL: Privacy-Aware Brain Tumor Diagnosis using Federated Deep Learning Framework. Procedia Computer Science
+- Nath, P., Singh, P. K., Roy, U., Roy, Kalla, A.  DeCentVNFMark: Blockchain-Based Decentralized Marketplace for VNF Packages in 5G and B5G
+- Nath, P., & Roy, U., Integration of Generative AI and OpenAI with Blockchain in Industry 5.0. Generative and Open AI in Industry 5.0 (Upcoming book). 	Status :  Abstract Accepted
+- Nath, P. , Jones ,C E., Singha , D., Roy, M Mobile VAPT using AI-ML and OSINT. Next Generation VAPT: Combining OSINT and AI-ML for Enhanced Vulnerability Assessment and Penetration Testing(Upcoming book). 	Status :  Abstract Accepted
+- Nath, P. , Jones ,C E., Roy, M., Singha , D  AI ML and OSINT-based web application scanning and testing. Next Generation VAPT: Combining OSINT and AI-ML for Enhanced Vulnerability Assessment and Penetration Testing(Upcoming book). 	Status :  Abstract Accepted
+
+---
 ## 💻 Technical Skills & Tools
 
 <div align="left">
