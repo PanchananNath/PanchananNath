@@ -233,7 +233,7 @@
 **🏅 Professional Roles:**
 - **Founder & CEO** - EncryptoCyberspace
 - **Cyber Crime Intervention Officer** - Information Sharing And Analysis Center
-- **Ex-Cyber Security Research Associate** - Research and Development (R&D) team,  Information Sharing And Analysis Center
+- **Ex-Cyber Security Research Associate** - Research and Development (R&D) team,  EC-Council
 - **Ex-ARIIA Coordinator** - Institute Innovation Council, NIST University
 - **Ex-Associate Editor** - Compute@NIST Departmental E-magazine
 - Technical and academic reviewer
