@@ -227,7 +227,7 @@
 
 **🎓 Academic Positions:**
 - **Doctoral Researcher (PhD)** - IIIT Guwahati (Current)
-- **Project Staff** - Dept. of CSE, IIIT Guwahati, Assam Science Technology & Environment Council
+- **Project Staff** - Dept. of CSE, IIIT Guwahati, funded by - Assam Science Technology & Environment Council (ASTEC)
 - **Assistant Professor** - NIST University (July 2024 - March 2025)
 
 **🏅 Professional Roles:**
