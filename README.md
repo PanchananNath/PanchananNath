@@ -226,8 +226,8 @@
 ## 🏆 Academic & Professional Achievements
 
 **🎓 Academic Positions:**
-- **PhD Doctoral Researcher** - IIIT Guwahati (Current)
-- **ASTEC Project Staff** - Assam Science Technology & Environment Council
+- **Doctoral Researcher (PhD)** - IIIT Guwahati (Current)
+- **Project Staff** - Dept. of CSE, IIIT Guwahati, Assam Science Technology & Environment Council
 - **Assistant Professor** - NIST University (July 2024 - March 2025)
 
 **🏅 Professional Roles:**
