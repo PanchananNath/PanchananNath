@@ -233,8 +233,8 @@
 **🏅 Professional Roles:**
 - **Founder & CEO** - EncryptoCyberspace
 - **Cyber Crime Intervention Officer** - Information Sharing And Analysis Center
-- **ARIIA Coordinator** - Institute Innovation Council, NIST University
-- **Associate Editor** - Compute@NIST Departmental E-magazine
+- **Ex-ARIIA Coordinator** - Institute Innovation Council, NIST University
+- **Ex-Associate Editor** - Compute@NIST Departmental E-magazine
 - Technical and academic reviewer
   - J1. IEEE Open Access Journal for Communication Society.
   - C2. 1st International Conference on Sustainable Computing and Intelligent Systems (ICSCIS 2025) :: Jaipur, India
