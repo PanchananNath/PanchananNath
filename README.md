@@ -199,7 +199,7 @@
 
 ---
 -->
-## Cybersecurity Certifications
+<!---## Cybersecurity Certifications
 
 #### Network & Security
 [![CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
@@ -221,7 +221,7 @@
 [![CCIO](https://img.shields.io/badge/ISAC_CCIO-FF9933?style=for-the-badge&logo=government&logoColor=black)](#)
 [![CCSP](https://img.shields.io/badge/Global_Tech_Council_CCSP-00008B?style=for-the-badge&logo=globalsign&logoColor=white)](#)
 [![CSCU](https://img.shields.io/badge/EC_Council_CSCU-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
-
+--->
 ---
 ## 🏆 Academic & Professional Achievements
 
