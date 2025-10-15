@@ -228,7 +228,9 @@
 **🎓 Academic Positions:**
 - **Doctoral Researcher (PhD)** - IIIT Guwahati (Current)
 - **Project Staff** - Dept. of CSE, IIIT Guwahati, funded by - Assam Science Technology & Environment Council (ASTEC)
-- **Ex-Assistant Professor** - NIST University 
+- **Ex-Assistant Professor** - NIST University
+- **Ex-Teaching Assistant** - National Institute of Electronics and Information Technology Guwahati (NIELIT Guwahati)
+- **Ex-Teaching Assistant** - Central Institute of Technology Kokrajhar 
 
 **🏅 Professional Roles:**
 - **Founder & CEO** - EncryptoCyberspace
