@@ -236,6 +236,7 @@
 - **Founder & CEO** - EncryptoCyberspace
 - **Cyber Crime Intervention Officer** - Information Sharing And Analysis Center
 - **Ex-Cyber Security Research Associate** - Research and Development (R&D) team,  EC-Council
+- **Ex-Graduate Research Fellow** - EC-Council University, USA
 - **Ex-ARIIA Coordinator** - Institute Innovation Council, NIST University
 - **Ex-Associate Editor** - Compute@NIST Departmental E-magazine
 - Technical and academic reviewer
