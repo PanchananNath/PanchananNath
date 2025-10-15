@@ -229,6 +229,7 @@
 - **Doctoral Researcher (PhD)** - IIIT Guwahati (Current)
 - **Project Staff** - Dept. of CSE, IIIT Guwahati, funded by - Assam Science Technology & Environment Council (ASTEC)
 - **Ex-Assistant Professor** - NIST University
+- **Ex-Graduate Research Fellow** - EC-Council University, USA
 - **Ex-Teaching Assistant** - National Institute of Electronics and Information Technology Guwahati (NIELIT Guwahati)
 - **Ex-Teaching Assistant** - Central Institute of Technology Kokrajhar 
 
@@ -236,7 +237,6 @@
 - **Founder & CEO** - EncryptoCyberspace
 - **Cyber Crime Intervention Officer** - Information Sharing And Analysis Center
 - **Ex-Cyber Security Research Associate** - Research and Development (R&D) team,  EC-Council
-- **Ex-Graduate Research Fellow** - EC-Council University, USA
 - **Ex-ARIIA Coordinator** - Institute Innovation Council, NIST University
 - **Ex-Associate Editor** - Compute@NIST Departmental E-magazine
 - Technical and academic reviewer
