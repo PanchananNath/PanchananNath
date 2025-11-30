@@ -68,6 +68,24 @@
 
 </div>
 
+
+
+
+<!-- Profile Views -->
+![](https://komarev.com/ghpvc/?username=panchanannath)
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=panchanannath&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- Overview & Languages -->
+![](https://raw.githubusercontent.com/panchanannath/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/panchanannath/github-stats/master/generated/languages.svg)
+
+<!-- GitHub Trends -->
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/panchanannath/langs)](https://githubtrends.io)
+
+
+
 ---
 
 ## 💻 Technical Skills & Tools
