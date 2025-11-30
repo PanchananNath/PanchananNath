@@ -24,13 +24,25 @@
 ####  Multi-access Edge Computing | Intermittent Computing | Early Exit Deep Learning | Near Data Processing | Secure Data Offloading | Blockchain | 5G & B5G | Cyber Security
 </div>
 
-
-
-
 ---
 
 
+## 📊 GitHub Statistics
 
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PanchananNath&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanchananNath&layout=compact&langs_count=8&theme=dark"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanchananNath&theme=dark)](https://github.com/PanchananNath)
+
+</div>
+
+---
 
 
 ## 📚 Published research works:
