@@ -25,7 +25,20 @@
 </div>
 
 
+
+
 ---
+
+
+![PanchananNath’s GitHub stats](https://github-readme-stats.vercel.app/api?username=PanchananNath&show_icons=true)
+
+### 🔹 Quick Stats  
+- ⭐ Stars: 8 :contentReference[oaicite:1]{index=1}  
+- 📁 Public Repositories: 31 :contentReference[oaicite:2]{index=2}  
+- 👥 Followers: 29 :contentReference[oaicite:3]{index=3}  
+- 👣 Following: 7 :contentReference[oaicite:4]{index=4}  
+
+
 
 ## 📚 Published research works:
 - *Nath, P.*, Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). *AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development*. Computers and Electrical Engineering, 106, 108607.
