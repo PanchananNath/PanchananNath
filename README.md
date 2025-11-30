@@ -62,14 +62,6 @@
 
 
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanchananNath&theme=dark)](https://github.com/PanchananNath)
-
-</div>
-
-
-
 
 <!-- Profile Views -->
 ![](https://komarev.com/ghpvc/?username=panchanannath)
@@ -81,8 +73,7 @@
 ![](https://raw.githubusercontent.com/panchanannath/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/panchanannath/github-stats/master/generated/languages.svg)
 
-<!-- GitHub Trends -->
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/panchanannath/langs)](https://githubtrends.io)
+
 
 
 
