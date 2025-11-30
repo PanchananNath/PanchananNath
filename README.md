@@ -30,7 +30,8 @@
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanchananNath&layout=compact)
+📈 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PanchananNath&show_icons=true&theme=react&hide_border=false&include_all_commits=true" width="390" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PanchananNath&layout=compact&theme=react&hide_border=false" width="390" /> </div>
 
 
 
