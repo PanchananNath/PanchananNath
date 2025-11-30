@@ -27,18 +27,6 @@
 ---
 
 
-## 📊 GitHub Statistics
-
-
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanchananNath&theme=dark)](https://github.com/PanchananNath)
-
-</div>
-
----
-
 
 ## 📚 Published research works:
 - *Nath, P.*, Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). *AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development*. Computers and Electrical Engineering, 106, 108607.
@@ -69,6 +57,19 @@
 - NP Mohapatra, P Nath, SR Pattanaik (2025). PriBraTFedDL: Privacy-Aware Brain Tumor Diagnosis using Federated Deep Learning Framework. Procedia Computer Science
 
 ---
+
+## 📊 GitHub Statistics
+
+
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanchananNath&theme=dark)](https://github.com/PanchananNath)
+
+</div>
+
+---
+
 ## 💻 Technical Skills & Tools
 
 <div align="left">
