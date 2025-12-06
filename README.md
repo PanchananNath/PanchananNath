@@ -40,6 +40,8 @@
 - Choudhury, B., Singh, P. K., Nath, P., Roy, U., & Kalla, A. (2025). Blockchain and Smart Contract for Decentralized and Secure Spectrum Management Toward 6G–Beyond Hype. Intelligent Spectrum Management: Towards 6G, 211-236.
   
 - Nath, P. The joy and pain of security in the era of generative AI, 5G, and beyond networks. NIST University
+
+- - Nath, P & Ghose, M. (2025). The joy and pain of security in the era of generative AI, 5G, and beyond networks. NIST University
 ---
 
 ## Research works under review:
