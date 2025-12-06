@@ -41,7 +41,7 @@
   
 - Nath, P. The joy and pain of security in the era of generative AI, 5G, and beyond networks. NIST University
 
-- - Nath, P & Ghose, M. (2025). Blockchain-Assisted Confidence-Aware Task Offloading and Resource Allocation for Deep Learning Application in Mobile Cloud Computing. NIST University
+- Nath, P & Ghose, M. (2025). Blockchain-Assisted Confidence-Aware Task Offloading and Resource Allocation for Deep Learning Application in Mobile Cloud Computing. SPACE 2025 (IIT Guwahati)
 ---
 
 ## Research works under review:
