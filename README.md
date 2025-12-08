@@ -29,7 +29,7 @@
 
 
 ## 📚 Published research works:
-- *Nath, P.*, Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). *AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development*. Computers and Electrical Engineering, 106, 108607.
+- Nath, P., Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). *AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development*. Computers and Electrical Engineering, 106, 108607.
 
 - Nath, P., Singh, P. K., Kalla, A., & Brahma, M. (2023, January). VNFTestChain: Blockchain based test framework for trusted VNF services in 5G and B5G. In 2023 15th International Conference on COMmunication Systems & NETworkS (COMSNETS) (pp. 495-497). IEEE.
   
