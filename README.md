@@ -251,7 +251,7 @@
 ## 🏆 Academic & Professional Achievements
 
 **🎓 Academic Positions:**
-- **Doctoral Researcher (PhD)** - IIIT Guwahati (Current)
+- **Doctoral Researcher (PhD)** - IIIT Guwahati 
 - **Project Staff** - Dept. of CSE, IIIT Guwahati, funded by - Assam Science Technology & Environment Council (ASTEC)
 - **Ex-Assistant Professor** - NIST University
 - **Ex-Graduate Research Fellow** - EC-Council University, USA
