@@ -56,7 +56,7 @@
   
 - NP Mohapatra, SR Pattanaik, D Maharana, P Nath (2025). Advance Analysis of Battery Durability Leveraging Machine Learning Techniques and Genetic Algorithm for Feature Assessment and Optimization. Next Research
   
-- NP Mohapatra, P Nath, SR Pattanaik (2025). PriBraTFedDL: Privacy-Aware Brain Tumor Diagnosis using Federated Deep Learning Framework. Procedia Computer Science
+- NP Mohapatra, P Nath, SR Pattanaik (2025). PriBraTFedDL: Privacy-Aware Brain Tumor Diagnosis using Federated Deep Learning Framework. Procedia Computer Science (Accepted for Publication)
 
 ---
 
