@@ -42,6 +42,8 @@
 - Nath, P. The joy and pain of security in the era of generative AI, 5G, and beyond networks. NIST University
 
 - Nath, P & Ghose, M. (2025). Blockchain-Assisted Confidence-Aware Task Offloading and Resource Allocation for Deep Learning Application in Mobile Cloud Computing. SPACE 2025 @ IIT Guwahati( Poster presented)
+
+- NP Mohapatra, P Nath, SR Pattanaik (2025). PriBraTFedDL: Privacy-Aware Brain Tumor Diagnosis using Federated Deep Learning Framework. Procedia Computer Science (Accepted for Publication)
 ---
 
 ## Research works under review:
@@ -56,7 +58,7 @@
   
 - NP Mohapatra, SR Pattanaik, D Maharana, P Nath (2025). Advance Analysis of Battery Durability Leveraging Machine Learning Techniques and Genetic Algorithm for Feature Assessment and Optimization. Next Research
   
-- NP Mohapatra, P Nath, SR Pattanaik (2025). PriBraTFedDL: Privacy-Aware Brain Tumor Diagnosis using Federated Deep Learning Framework. Procedia Computer Science (Accepted for Publication)
+
 
 ---
 
