@@ -154,9 +154,6 @@
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?logo=googledocs&logoColor=white)
-![LibreOffice Writer](https://img.shields.io/badge/LibreOffice%20Writer-18A303?logo=libreoffice&logoColor=white)
 ![Zotero](https://img.shields.io/badge/Zotero-CC2936?logo=zotero&logoColor=white)
 ![Mendeley](https://img.shields.io/badge/Mendeley-A41F35?logo=mendeley&logoColor=white)
 ![EndNote](https://img.shields.io/badge/EndNote-FF0000?logo=endnote&logoColor=white)
