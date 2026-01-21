@@ -333,7 +333,7 @@ Higher the Security Lower the Usability || Lower the Security Higher the Usabili
 
 ---
 
-*Last updated: Nov 2025*
+*Last updated: Jan 2026*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PanchananNath&color=green&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/PanchananNath?style=social)](https://github.com/PanchananNath)
