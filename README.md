@@ -29,34 +29,34 @@
 
 
 ## 📚 Published research works:
-- Nath, P., Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). *AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development*. Computers and Electrical Engineering, 106, 108607.
+- **Nath, P.**, Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). *AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development*. Computers and Electrical Engineering, 106, 108607.
 
-- Nath, P., Singh, P. K., Kalla, A., & Brahma, M. (2023, January). VNFTestChain: Blockchain based test framework for trusted VNF services in 5G and B5G. In 2023 15th International Conference on COMmunication Systems & NETworkS (COMSNETS) (pp. 495-497). IEEE.
+- **Nath, P.**, Singh, P. K., Kalla, A., & Brahma, M. (2023, January). VNFTestChain: Blockchain based test framework for trusted VNF services in 5G and B5G. In 2023 15th International Conference on COMmunication Systems & NETworkS (COMSNETS) (pp. 495-497). IEEE.
   
-- Singh, P. K., Brahma, M., *Nath, P.*, & Ghosh, U. (2023, May). *A study on secure network slicing in 5G*. In 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW) (pp. 52-61). IEEE.
+- Singh, P. K., Brahma, M., **Nath, P.**, & Ghosh, U. (2023, May). *A study on secure network slicing in 5G*. In 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW) (pp. 52-61). IEEE.
 
-- Nath, P., & Pandey, P. S. (2025). A Study on Machine Learning and Blockchain-Based Techniques for Transparent VNF Testing for 5G and B5G Networks. In Blockchain Technology for Cyber Defense, Cybersecurity, and Countermeasures (pp. 139-160). CRC Press.
+- **Nath, P.**, & Pandey, P. S. (2025). A Study on Machine Learning and Blockchain-Based Techniques for Transparent VNF Testing for 5G and B5G Networks. In Blockchain Technology for Cyber Defense, Cybersecurity, and Countermeasures (pp. 139-160). CRC Press.
 
-- Choudhury, B., Singh, P. K., Nath, P., Roy, U., & Kalla, A. (2025). Blockchain and Smart Contract for Decentralized and Secure Spectrum Management Toward 6G–Beyond Hype. Intelligent Spectrum Management: Towards 6G, 211-236.
+- Choudhury, B., Singh, P. K., **Nath, P.**, Roy, U., & Kalla, A. (2025). Blockchain and Smart Contract for Decentralized and Secure Spectrum Management Toward 6G–Beyond Hype. Intelligent Spectrum Management: Towards 6G, 211-236.
   
-- Nath, P. The joy and pain of security in the era of generative AI, 5G, and beyond networks. NIST University
+- **Nath, P.** The joy and pain of security in the era of generative AI, 5G, and beyond networks. NIST University
 
-- Nath, P & Ghose, M. (2025). Blockchain-Assisted Confidence-Aware Task Offloading and Resource Allocation for Deep Learning Application in Mobile Cloud Computing. SPACE 2025 @ IIT Guwahati( Poster presented)
+- **Nath, P.** & Ghose, M. (2025). Blockchain-Assisted Confidence-Aware Task Offloading and Resource Allocation for Deep Learning Application in Mobile Cloud Computing. SPACE 2025 @ IIT Guwahati( Poster presented)
 
-- NP Mohapatra, P Nath, SR Pattanaik (2025). PriBraTFedDL: Privacy-Aware Brain Tumor Diagnosis using Federated Deep Learning Framework. Procedia Computer Science (Accepted for Publication)
+- NP Mohapatra, **P Nath**, SR Pattanaik (2025). PriBraTFedDL: Privacy-Aware Brain Tumor Diagnosis using Federated Deep Learning Framework. Procedia Computer Science (Accepted for Publication)
 ---
 
 ## Research works under review:
 
-- Nath, P., Singh, P. K., Roy, U., Roy, Kalla, A.  DeCentVNFMark: Blockchain-Based Decentralized Marketplace for VNF Packages in 5G and B5G
+- **Nath, P.**, Singh, P. K., Roy, U., Roy, Kalla, A.  DeCentVNFMark: Blockchain-Based Decentralized Marketplace for VNF Packages in 5G and B5G
   
-- Nath, P., & Roy, U., Integration of Generative AI and OpenAI with Blockchain in Industry 5.0. Generative and Open AI in Industry 5.0 (Upcoming book).
+- **Nath, P.**, & Roy, U., Integration of Generative AI and OpenAI with Blockchain in Industry 5.0. Generative and Open AI in Industry 5.0 (Upcoming book).
   
-- Nath, P. , Jones ,C E., Singha , D., Roy, M Mobile VAPT using AI-ML and OSINT. Next Generation VAPT: Combining OSINT and AI-ML for Enhanced Vulnerability Assessment and Penetration Testing(Upcoming book).
+- **Nath, P.** , Jones ,C E., Singha , D., Roy, M Mobile VAPT using AI-ML and OSINT. Next Generation VAPT: Combining OSINT and AI-ML for Enhanced Vulnerability Assessment and Penetration Testing(Upcoming book).
   
-- Nath, P. , Jones ,C E., Roy, M., Singha , D  AI ML and OSINT-based web application scanning and testing. Next Generation VAPT: Combining OSINT and AI-ML for Enhanced Vulnerability Assessment and Penetration Testing(Upcoming book).
+- **Nath, P.** , Jones ,C E., Roy, M., Singha , D  AI ML and OSINT-based web application scanning and testing. Next Generation VAPT: Combining OSINT and AI-ML for Enhanced Vulnerability Assessment and Penetration Testing(Upcoming book).
   
-- NP Mohapatra, SR Pattanaik, D Maharana, P Nath (2025). Advance Analysis of Battery Durability Leveraging Machine Learning Techniques and Genetic Algorithm for Feature Assessment and Optimization. Next Research
+- NP Mohapatra, SR Pattanaik, D Maharana, **P Nath** (2025). Advance Analysis of Battery Durability Leveraging Machine Learning Techniques and Genetic Algorithm for Feature Assessment and Optimization. Next Research
   
 
 
