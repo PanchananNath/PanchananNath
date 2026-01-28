@@ -43,7 +43,7 @@
 
 - **Nath, P.** & Ghose, M. (2025). Blockchain-Assisted Confidence-Aware Task Offloading and Resource Allocation for Deep Learning Application in Mobile Cloud Computing. SPACE 2025 @ IIT Guwahati( Poster presented)
 
-- NP Mohapatra, **P Nath**, SR Pattanaik (2025). PriBraTFedDL: Privacy-Aware Brain Tumor Diagnosis using Federated Deep Learning Framework. Procedia Computer Science (Accepted for Publication)
+- NP Mohapatra, **P Nath**, SR Pattanaik (2025). PriBraTFedDL: Federated Deep Learning for Privacy-Preserving Brain Tumor Diagnosis. In 1st International Conference on Intelligent Computing, Cognitive Networks, and Smart Systems (IC2NS2)-2026 (Accepted for Publication)
 ---
 
 ## Research works under review:
