@@ -7,16 +7,6 @@
 </div>
 
 
----
-## 🚀 About Me
-- 🔬 **Current Research:** Early Exit Deep Neural Networks, Multi-acess Edge Computing, Intermittent Computing, Secure Data Offloading, 
-- 🏛️ **Institution:** Indian Institute of Information Technology Guwahati
-- 📚 **Background:** Former Assistant Professor, Industry Expert, Security Consultant
-- 🌐 **Website:** [Check Profile](https://sites.google.com/iiitg.ac.in/erpanchanannath)
-- 📍 **Location:** Guwahati, Assam, India
-
--->
-
 ## 🕵️Research domain & expertise
 
 ####  Multi-access Edge Computing | Intermittent Computing | Early Exit Deep Learning | Near Memory Processing | Compiler assisted Secure Data Offloading | Blockchain | 5G & B5G | Cyber Security
