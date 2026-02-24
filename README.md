@@ -46,11 +46,6 @@
   
 - NP Mohapatra, SR Pattanaik, D Maharana, **P Nath** (2025). Advance Analysis of Battery Durability Leveraging Machine Learning Techniques and Genetic Algorithm for Feature Assessment and Optimization. Next Research
   
-
-
----
-
-
 ---
 
 ## 💻 Technical Skills & Tools
@@ -142,18 +137,12 @@
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)
-![Zotero](https://img.shields.io/badge/Zotero-CC2936?logo=zotero&logoColor=white)
 ![Mendeley](https://img.shields.io/badge/Mendeley-A41F35?logo=mendeley&logoColor=white)
 ![EndNote](https://img.shields.io/badge/EndNote-FF0000?logo=endnote&logoColor=white)
 ![Grammarly](https://img.shields.io/badge/Grammarly-15C39A?logo=grammarly&logoColor=white)
 ![Turnitin](https://img.shields.io/badge/Turnitin-FF0000?logo=turnitin&logoColor=white)
-![RefWorks](https://img.shields.io/badge/RefWorks-FF6F00?logo=refworks&logoColor=white)
-![Scrivener](https://img.shields.io/badge/Scrivener-000000?logo=writing&logoColor=white)
-![LyX](https://img.shields.io/badge/LyX-005C5C?logo=latex&logoColor=white)
-![Pandoc](https://img.shields.io/badge/Pandoc-333333?logo=markdown&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white)
 
 </div>
 
