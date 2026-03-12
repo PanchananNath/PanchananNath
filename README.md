@@ -7,7 +7,7 @@
 </div>
 
 
-## 🕵️Research domain & expertise
+## Research domain & expertise
 
 ####  Intermittent Computing | Compiler assisted Secure Data Offloading | Multi-access Edge Computing | Early Exit Deep Learning | Near Memory Processing | Blockchain | 5G & B5G | Cyber Security
 </div>
@@ -16,7 +16,7 @@
 
 
 
-## 📚 Published research works:
+## Published research works:
 - **Nath, P.**, Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). **AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development**. Computers and Electrical Engineering, 106, 108607.
 
 - **Nath, P.**, Singh, P. K., Kalla, A., & Brahma, M. (2023, January). **VNFTestChain: Blockchain based test framework for trusted VNF services in 5G and B5G**. In 2023 15th International Conference on COMmunication Systems & NETworkS (COMSNETS) (pp. 495-497). IEEE.
@@ -48,7 +48,7 @@
   
 ---
 
-## 💻 Technical Skills & Tools
+## Technical Skills & Tools
 
 <div align="left">
 
@@ -92,7 +92,7 @@
 ![Powershell](https://skillicons.dev/icons?i=powershell)
 ![Matlab](https://skillicons.dev/icons?i=matlab)
 
-### 🛡 Cybersecurity & Penetration Testing Tools
+### Cybersecurity & Penetration Testing Tools
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
 ![Parrot Security](https://img.shields.io/badge/Parrot%20Security-1BA2E0?logo=linux&logoColor=white)
@@ -133,7 +133,7 @@
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticstack&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
-### 📝 Standard Documentation Tools for Academic Research & Writing
+### Standard Documentation Tools for Academic Research & Writing
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)
@@ -147,7 +147,7 @@
 </div>
 
 <!--
-**🛡️ Cybersecurity Expertise:**
+** Cybersecurity Expertise:**
 - **Network Defense & Infrastructure Security**
 - **Web Penetration Testing & Ethical Hacking**
 - **Blockchain Integration for Trusted Services**
@@ -162,7 +162,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   
@@ -202,9 +202,9 @@
 [![CSCU](https://img.shields.io/badge/EC_Council_CSCU-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
 --->
 ---
-## 🏆 Academic & Professional Achievements
+##  Academic & Professional Achievements
 
-**🎓 Academic Positions:**
+**Academic Positions:**
 - **Doctoral Researcher (PhD)** - IIIT Guwahati 
 - **Project Staff** - Dept. of CSE, IIIT Guwahati, funded by - Assam Science Technology & Environment Council (ASTEC)
 - **Ex-Assistant Professor** - NIST University
@@ -212,7 +212,7 @@
 - **Ex-Teaching Assistant** - National Institute of Electronics and Information Technology Guwahati (NIELIT Guwahati)
 - **Ex-Teaching Assistant** - Central Institute of Technology Kokrajhar 
 
-**🏅 Professional Roles:**
+**Professional Roles:**
 - **Founder & CEO** - EncryptoCyberspace
 - **Cyber Crime Intervention Officer** - Information Sharing And Analysis Center
 - **Ex-Cyber Security Research Associate** - Research and Development (R&D) team,  EC-Council
@@ -226,7 +226,7 @@
   - C5. 1st International Conference on Intelligent Computing and Knowledge Extraction (ICICKE - 2025) :: Bengaluru, India
   - C6. 3rd International Conference on Data Science and Information System (ICDSIS - 2025) :: Hassan, India
   
-**👨‍🏫 Impact:**
+**Impact:**
 - **500+ Students Mentored** in cybersecurity domains through ASDM, NIELIT
 - **Multiple Research Publications** in high-impact journals
 - **Industry Collaborations** with EC-Council R&D Team
@@ -259,7 +259,7 @@
 
 ---
 
-## 🌐 Connect & Collaborate
+##  Connect & Collaborate
 
 <div align="center">
 
@@ -298,7 +298,7 @@
 -->
 <div align="center">
 
-## 💡 "Security is neither a product, nor a process but the Philosophy" 💡 
+##  "Security is neither a product, nor a process but the Philosophy"  
 
 The Philosophy is
 
