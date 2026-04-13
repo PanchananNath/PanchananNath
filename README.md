@@ -9,7 +9,7 @@
 
 ## Research domain & expertise
 
-####  Intermittent Computing | Compiler assisted Secure Data Offloading | Multi-access Edge Computing | Early Exit Deep Learning | Near Memory Processing | Blockchain | 5G & B5G | Cyber Security
+####  Intermittent computing | Compiler assisted secure data offloading | Multi-access edge computing | Early exit Deep Learning | Blockchain | 5G & B5G | Cyber security
 </div>
 
 ---
@@ -207,10 +207,10 @@
 **Academic Positions:**
 - **Doctoral Researcher (PhD)** - IIIT Guwahati 
 - **Project Staff** - Dept. of CSE, IIIT Guwahati, funded by - Assam Science Technology & Environment Council (ASTEC)
-- **Ex-Assistant Professor** - NIST University
+- **Ex-Assistant Professor** - NIST University, Odisha, India
 - **Ex-Graduate Research Fellow** - EC-Council University, USA
 - **Ex-Teaching Assistant** - National Institute of Electronics and Information Technology Guwahati (NIELIT Guwahati)
-- **Ex-Teaching Assistant** - Central Institute of Technology Kokrajhar 
+- **Ex-Teaching Assistant** - Dept. of CSE, Central Institute of Technology Kokrajhar (CITK) 
 
 **Professional Roles:**
 - **Founder & CEO** - EncryptoCyberspace
@@ -298,19 +298,19 @@
 -->
 <div align="center">
 
-##  "Security is neither a product, nor a process but the Philosophy"  
+##  "Security is neither a product, nor a process but the philosophy"  
 
 The Philosophy is
 
-Higher the Security Lower the Usability || Lower the Security Higher the Usability.
+Higher the security lower the usability || Lower the security higher the usability.
 
 ---
 
-###  Building Secure Systems ||  Advancing Research ||  Educating Future Experts
+###  Building tiny secure systems ||  Advancing research ||  Educating future experts
 
 ---
 
-*Last updated: Feb 2026*
+*Last updated: Apr 2026*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PanchananNath&color=green&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/PanchananNath?style=social)](https://github.com/PanchananNath)
