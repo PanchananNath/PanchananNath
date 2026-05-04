@@ -46,6 +46,8 @@
   
 - NP Mohapatra, SR Pattanaik, D Maharana, **P Nath** (2025). Advance Analysis of Battery Durability Leveraging Machine Learning Techniques and Genetic Algorithm for Feature Assessment and Optimization. Next Research
   
+- D Roy, **P Nath**, M Ghose, (2026). Performance and energy-aware deep learning workload deployment on resource-constrained edge devices. 
+  
 ---
 
 ## Technical Skills & Tools
@@ -96,7 +98,6 @@
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
 ![Parrot Security](https://img.shields.io/badge/Parrot%20Security-1BA2E0?logo=linux&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-000000?logo=linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2E64FE?logo=security&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?logo=burpsuite&logoColor=white)
@@ -112,25 +113,18 @@
 ![Hashcat](https://img.shields.io/badge/Hashcat-00CED1?logo=security&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-8B0000?logo=security&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-FFD700?logo=database&logoColor=black)
-![Social Engineering Toolkit](https://img.shields.io/badge/SET-FF1493?logo=social&logoColor=white)
 ![Cuckoo Sandbox](https://img.shields.io/badge/Cuckoo%20Sandbox-696969?logo=python&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-191970?logo=security&logoColor=white)
 ![Maltego](https://img.shields.io/badge/Maltego-FF6347?logo=security&logoColor=white)
 ![TheHarvester](https://img.shields.io/badge/TheHarvester-483D8B?logo=security&logoColor=white)
 ![Shodan](https://img.shields.io/badge/Shodan-FF0000?logo=shodan&logoColor=white)
 ![Recon-ng](https://img.shields.io/badge/Recon--ng-2F4F4F?logo=security&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-8B0000?logo=security&logoColor=white)
-![Empire](https://img.shields.io/badge/Empire-000000?logo=security&logoColor=white)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-1E90FF?logo=security&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-008B8B?logo=terminal&logoColor=white)
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-2E8B57?logo=security&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-FFA500?logo=security&logoColor=white)
-![Radare2](https://img.shields.io/badge/Radare2-000000?logo=security&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-DC143C?logo=security&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-8B0000?logo=security&logoColor=white)
 ![Yara](https://img.shields.io/badge/Yara-4682B4?logo=security&logoColor=white)
-![Sysinternals](https://img.shields.io/badge/Sysinternals-4B0082?logo=windows&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticstack&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 ### Standard Documentation Tools for Academic Research & Writing
@@ -310,7 +304,7 @@ Higher the security lower the usability || Lower the security higher the usabili
 
 ---
 
-*Last updated: Apr 2026*
+*Last updated: May 2026*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PanchananNath&color=green&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/PanchananNath?style=social)](https://github.com/PanchananNath)
