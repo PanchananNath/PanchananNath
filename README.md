@@ -14,7 +14,14 @@
 
 ---
 
+## Sponsored Research Projects
 
+**1. Secure Execution of Sensitive Applications by Eliminating Cache Side Channel Attacks using Near Memory Computation Paradigm**
+- **Funding Agency:** ASTEC, Govt of Assam | **Host institute:** IIIT Guwahati
+
+**2. Blockchain-Assisted Confidence-Aware Task Offloading and Resource Allocation for Deep Learning Application in Mobile Cloud Computing**
+- **Funding Agency:** ANRF-PAIR | **Host institute:** IIIT Guwahati
+---
 
 ## Published research works:
 - **Nath, P.**, Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). **AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development**. Computers and Electrical Engineering, 106, 108607.
@@ -141,13 +148,6 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PanchananNath&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanchananNath&layout=compact&langs_count=8&theme=dark"/>
-
-</div>
-
-<div align="center">
-  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanchananNath&theme=dark)](https://github.com/PanchananNath)
 
 </div>
@@ -185,19 +185,8 @@
 
 ---
 
-## Sponsored Research Projects
 
-<div align="center">
-
-**1. Secure Execution of Sensitive Applications by Eliminating Cache Side Channel Attacks using Near Memory Computation Paradigm**
-- **Funding Agency:** ASTEC, Govt of Assam | **Host institute:** IIIT Guwahati
-
-**2. Blockchain-Assisted Confidence-Aware Task Offloading and Resource Allocation for Deep Learning Application in Mobile Cloud Computing**
-- **Funding Agency:** ANRF-PAIR | **Host institute:** IIIT Guwahati
-
-
----
-
+<---
 ##  Connect & Collaborate
 
 <div align="center">
@@ -208,6 +197,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 </div>
+--->
 
 
 **📧 Research Collaborations:** Open for academic partnerships and industry consultations  
