@@ -144,7 +144,7 @@
 
 ---
 
-##  Academic & Professional Achievements
+##  Academic & Professional Roles
 
 **Academic Positions:**
 - **Doctoral Researcher (PhD)** - IIIT Guwahati 
@@ -174,21 +174,6 @@
 - **Industry Collaborations** with EC-Council R&D Team
 
 ---
-
-
-<---
-##  Connect & Collaborate
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-Academic%20Profile-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/iiitg.ac.in/erpanchanannath)
-[![GitHub](https://img.shields.io/badge/GitHub-EncryptedHacker-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PanchananNath)
-[![Email](https://img.shields.io/badge/Email-Research%20Collaboration-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@iiitg.ac.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
-</div>
---->
-
 
 **📧 Research Collaborations:** Open for academic partnerships and industry consultations  
 **🎤 Speaking:** Available for conferences, workshops, and cybersecurity seminars  
