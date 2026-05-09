@@ -43,16 +43,6 @@
 
 ## Research works under review:
 
-- **Nath, P.**, Singh, P. K., Roy, U., Roy, Kalla, A.  DeCentVNFMark: Blockchain-Based Decentralized Marketplace for VNF Packages in 5G and B5G
-  
-- **Nath, P.**, & Roy, U., Integration of Generative AI and OpenAI with Blockchain in Industry 5.0. Generative and Open AI in Industry 5.0 (Upcoming book).
-  
-- **Nath, P.** , Jones ,C E., Singha , D., Roy, M Mobile VAPT using AI-ML and OSINT. Next Generation VAPT: Combining OSINT and AI-ML for Enhanced Vulnerability Assessment and Penetration Testing(Upcoming book).
-  
-- **Nath, P.** , Jones ,C E., Roy, M., Singha , D  AI ML and OSINT-based web application scanning and testing. Next Generation VAPT: Combining OSINT and AI-ML for Enhanced Vulnerability Assessment and Penetration Testing(Upcoming book).
-  
-- NP Mohapatra, SR Pattanaik, D Maharana, **P Nath** (2025). Advance Analysis of Battery Durability Leveraging Machine Learning Techniques and Genetic Algorithm for Feature Assessment and Optimization. Next Research
-  
 - D Roy, **P Nath**, M Ghose, (2026). Performance and energy-aware deep learning workload deployment on resource-constrained edge devices. 
   
 ---
