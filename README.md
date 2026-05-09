@@ -9,7 +9,7 @@
 
 ## Research domain & expertise
 
-####  Intermittent computing | Compiler assisted secure data offloading | Multi-access edge computing | Early exit Deep Learning | Blockchain | 5G & B5G | Cyber security
+####  Intermittent computing | Compiler assisted program analysis | Multi-access edge computing | Early exit Deep Learning | Blockchain | 5G & B5G | Cyber security
 </div>
 
 ---
@@ -82,7 +82,6 @@
 ![GitLab](https://skillicons.dev/icons?i=gitlab)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Vim](https://skillicons.dev/icons?i=vim)
-![Neovim](https://skillicons.dev/icons?i=neovim)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
@@ -92,7 +91,6 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Powershell](https://skillicons.dev/icons?i=powershell)
-![Matlab](https://skillicons.dev/icons?i=matlab)
 
 ### Cybersecurity & Penetration Testing Tools
 
@@ -123,9 +121,6 @@
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-2E8B57?logo=security&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-FFA500?logo=security&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-DC143C?logo=security&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-8B0000?logo=security&logoColor=white)
-![Yara](https://img.shields.io/badge/Yara-4682B4?logo=security&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 ### Standard Documentation Tools for Academic Research & Writing
 
@@ -140,21 +135,7 @@
 
 </div>
 
-<!--
-** Cybersecurity Expertise:**
-- **Network Defense & Infrastructure Security**
-- **Web Penetration Testing & Ethical Hacking**
-- **Blockchain Integration for Trusted Services**
-- **AI-based Threat Detection & Analysis**
-- **Cryptographic Implementation & Analysis**
 
-**🔧 Development Stack:**
-- **Backend:** Python, C#, Java, Node.js
-- **Security Tools:** Custom vulnerability scanners, penetration testing frameworks
-- **Research Platforms:** MATLAB, R, Various ML/AI libraries
-- **Network:** 5G/B5G protocols, network simulation tools
-
----
 
 ##  GitHub Statistics
 
@@ -172,30 +153,7 @@
 </div>
 
 ---
-<!---## Cybersecurity Certifications
 
-#### Network & Security
-[![CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
-[![NSE1](https://img.shields.io/badge/Fortinet_NSE_1-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](#)
-[![NSE2](https://img.shields.io/badge/Fortinet_NSE_2-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](#)
-[![ISC2 CC](https://img.shields.io/badge/ISC2_Certified_in_Cybersecurity-ff0000?style=for-the-badge&logo=isc2&logoColor=white)](#)
-[![CyberArk PAM](https://img.shields.io/badge/CyberArk_Privileged_Access_Management-000000?style=for-the-badge&logo=cyberark&logoColor=white)](#)
-[![CNSS](https://img.shields.io/badge/ICSI_CNSS-228B22?style=for-the-badge&logo=securityscorecard&logoColor=white)](#)
-[![Networking Diploma](https://img.shields.io/badge/Alison_Networking_Diploma-00BFFF?style=for-the-badge&logo=alison&logoColor=white)](#)
-
-#### Ethical Hacking & Defense
-[![CEH](https://img.shields.io/badge/CEH-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
-[![CompTIA CySA+](https://img.shields.io/badge/CompTIA_CySA+-ED1C24?style=for-the-badge&logo=comptia&logoColor=white)](#)
-[![CompTIA PenTest+](https://img.shields.io/badge/CompTIA_PenTest+-ED1C24?style=for-the-badge&logo=comptia&logoColor=white)](#)
-[![EHE](https://img.shields.io/badge/EC_Council_EHE-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
-[![NDE](https://img.shields.io/badge/EC_Council_NDE-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
-
-#### Specialized Certifications
-[![CCIO](https://img.shields.io/badge/ISAC_CCIO-FF9933?style=for-the-badge&logo=government&logoColor=black)](#)
-[![CCSP](https://img.shields.io/badge/Global_Tech_Council_CCSP-00008B?style=for-the-badge&logo=globalsign&logoColor=white)](#)
-[![CSCU](https://img.shields.io/badge/EC_Council_CSCU-FF7800?style=for-the-badge&logo=ec-council&logoColor=white)](#)
---->
----
 ##  Academic & Professional Achievements
 
 **Academic Positions:**
@@ -226,30 +184,17 @@
 - **Industry Collaborations** with EC-Council R&D Team
 
 ---
-<!--
-## 🔬 Featured Research Projects
+
+## Sponsored Research Projects
 
 <div align="center">
 
-### 🚀 Pinned Research Repositories
+**1. Secure Execution of Sensitive Applications by Eliminating Cache Side Channel Attacks using Near Memory Computation Paradigm**
+- **Funding Agency:** ASTEC, Govt of Assam | **Host institute:** IIIT Guwahati
 
-</div>
+**2. Blockchain-Assisted Confidence-Aware Task Offloading and Resource Allocation for Deep Learning Application in Mobile Cloud Computing**
+- **Funding Agency:** ANRF-PAIR | **Host institute:** IIIT Guwahati
 
-**1. 🔐 [Encryption_and_Decryption_Using_DES_Algorithm](https://github.com/PanchananNath/Encryption_and_Decryption_Using_DES_Algorithm)**
-- Implementation of DES algorithm for text encryption/decryption
-- **Language:** C | **Focus:** Cryptographic Implementation
-
-**2. 🛡️ [Improved_3DES_Cryptographic_algorithm_for_Information-Security](https://github.com/PanchananNath/Improved_3DES_Cryptographic_algorithm_for_Information-Security)**
-- Enhanced 3-DES implementation for multimedia data security
-- **Language:** C# | **Focus:** Advanced Cryptography
-
-**3. 🔒 [Simple_textfile_Encrypter](https://github.com/PanchananNath/Simple_textfile_Encrypter)**
-- Custom substitution-based file encryption tool
-- **Language:** C | **Focus:** Security Tools Development
-
-**4. 🤖 [AI-Blockchain Vulnerability Detection System (scvdp)](https://github.com/PanchananNath/scvdp)**
-- Cutting-edge research project combining AI and blockchain for code security
-- **Collaboration:** Multi-institutional research initiative
 
 ---
 
@@ -263,33 +208,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 </div>
--->
+
 
 **📧 Research Collaborations:** Open for academic partnerships and industry consultations  
 **🎤 Speaking:** Available for conferences, workshops, and cybersecurity seminars  
 **🤝 Mentoring:** Passionate about guiding next-generation cybersecurity professionals
 
 ---
-<!--
-## 🎯 Current Focus & Future Goals
 
-**🔬 Research Pipeline:**
-- Expanding AI-driven vulnerability detection to cloud-native applications
-- Exploring quantum-resistant cryptographic implementations
-- Developing next-gen blockchain security frameworks for IoT ecosystems
-
-**🎓 Academic Goals:**
-- Completing PhD thesis on "AI and Blockchain Integration for Software Security"
-- Publishing in top-tier security conferences (IEEE S&P, CCS, NDSS)
-- Building international research collaborations
-
-**💼 Industry Impact:**
-- Bridging academic research with real-world security challenges
-- Contributing to open-source security tools and frameworks
-- Advancing cybersecurity education through innovative teaching methods
-
----
--->
 <div align="center">
 
 ##  "Security is neither a product, nor a process but the philosophy"  
