@@ -169,15 +169,15 @@
   - C6. 3rd International Conference on Data Science and Information System (ICDSIS - 2025) :: Hassan, India
   
 **Impact:**
-- **500+ Students Mentored** in cybersecurity domains through ASDM, NIELIT
-- **Multiple Research Publications** in high-impact journals
-- **Industry Collaborations** with EC-Council R&D Team
+- **500+ Students Mentored** in cybersecurity domains through ASDM, NIELIT, Cyber X Secure Club, and EncryptoCyberspace
+- **Multiple Research Publications** in core ranked conferences and high-impact journals
+- **Industry Collaborations** with EC-Council R&D Team, NIELIT, ASDM etc.
 
 ---
 
-**📧 Research Collaborations:** Open for academic partnerships and industry consultations  
-**🎤 Speaking:** Available for conferences, workshops, and cybersecurity seminars  
-**🤝 Mentoring:** Passionate about guiding next-generation cybersecurity professionals
+**Research Collaborations:** Open for academic collaborations and industry consultations  
+**Speaking:** Available for online talks, hands-on sessions, tutorials for conferences, workshops on system, network and cybersecurity domain  
+**Mentoring:** Passionate about guiding next-generation system and security professionals
 
 ---
 
