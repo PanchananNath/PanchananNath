@@ -30,7 +30,7 @@
 
 - [**C1**] **Nath, P.**, Singh, P. K., Kalla, A., & Brahma, M. (2023, January). **VNFTestChain: Blockchain based test framework for trusted VNF services in 5G and B5G**. In 2023 15th International Conference on COMmunication Systems & NETworkS (COMSNETS) (pp. 495-497). IEEE.
   
-- [**C1**] Singh, P. K., Brahma, M., **Nath, P.**, & Ghosh, U. (2023, May). **A study on secure network slicing in 5G**. In 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW) (pp. 52-61). IEEE.
+- [**C2**] Singh, P. K., Brahma, M., **Nath, P.**, & Ghosh, U. (2023, May). **A study on secure network slicing in 5G**. In 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW) (pp. 52-61). IEEE.
 
 - [**B1**] **Nath, P.**, & Pandey, P. S. (2025). **A Study on Machine Learning and Blockchain-Based Techniques for Transparent VNF Testing for 5G and B5G Networks**. In Blockchain Technology for Cyber Defense, Cybersecurity, and Countermeasures (pp. 139-160). CRC Press.
 
@@ -40,12 +40,12 @@
 
 - [**P1**] **Nath, P.** & Ghose, M. (2025). **Blockchain-Assisted Confidence-Aware Task Offloading and Resource Allocation for Deep Learning Application in Mobile Cloud Computing**. SPACE 2025 @ IIT Guwahati( Poster presented)
 
-- [**C1**[ NP Mohapatra, **P Nath**, SR Pattanaik (2025). **PriBraTFedDL: Federated Deep Learning for Privacy-Preserving Brain Tumor Diagnosis**. In 1st International Conference on Intelligent Computing, Cognitive Networks, and Smart Systems (IC2NS2)-2026 (Presented, Publication awaiting)
+- [**C3**[ NP Mohapatra, **P Nath**, SR Pattanaik (2025). **PriBraTFedDL: Federated Deep Learning for Privacy-Preserving Brain Tumor Diagnosis**. In 1st International Conference on Intelligent Computing, Cognitive Networks, and Smart Systems (IC2NS2)-2026 (Presented, Publication awaiting)
 ---
 
 ## Research works under review:
 
-- D Roy, **P Nath**, M Ghose, (2026). Performance and energy-aware deep learning workload deployment on resource-constrained edge devices. 
+- [**B3**] D Roy, **P Nath**, M Ghose, (2026). Performance and energy-aware deep learning workload deployment on resource-constrained edge devices. 
   
 ---
 
