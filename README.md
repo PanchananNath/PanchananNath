@@ -23,22 +23,24 @@
 - **Funding Agency:** ANRF-PAIR | **Host institute:** IIIT Guwahati
 ---
 
-## Published research works: (J*: Journal, C*: Conference, B*: Book chapter, P*: Poster, TD*: Technical documentation)
-- **J1** **Nath, P.**, Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). **AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development**. Computers and Electrical Engineering, 106, 108607.
+## Published research works: 
+### (J*: Journal, C*: Conference, B*: Book chapter, P*: Poster, TD*: Technical documentation)
 
-- **C1** **Nath, P.**, Singh, P. K., Kalla, A., & Brahma, M. (2023, January). **VNFTestChain: Blockchain based test framework for trusted VNF services in 5G and B5G**. In 2023 15th International Conference on COMmunication Systems & NETworkS (COMSNETS) (pp. 495-497). IEEE.
+- [**J1**] **Nath, P.**, Mushahary, J. R., Roy, U., Brahma, M., & Singh, P. K. (2023). **AI and Blockchain-based source code vulnerability detection and prevention system for multiparty software development**. Computers and Electrical Engineering, 106, 108607.
+
+- [**C1**] **Nath, P.**, Singh, P. K., Kalla, A., & Brahma, M. (2023, January). **VNFTestChain: Blockchain based test framework for trusted VNF services in 5G and B5G**. In 2023 15th International Conference on COMmunication Systems & NETworkS (COMSNETS) (pp. 495-497). IEEE.
   
-- **C1** Singh, P. K., Brahma, M., **Nath, P.**, & Ghosh, U. (2023, May). **A study on secure network slicing in 5G**. In 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW) (pp. 52-61). IEEE.
+- [**C1**] Singh, P. K., Brahma, M., **Nath, P.**, & Ghosh, U. (2023, May). **A study on secure network slicing in 5G**. In 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW) (pp. 52-61). IEEE.
 
-- **B1** **Nath, P.**, & Pandey, P. S. (2025). **A Study on Machine Learning and Blockchain-Based Techniques for Transparent VNF Testing for 5G and B5G Networks**. In Blockchain Technology for Cyber Defense, Cybersecurity, and Countermeasures (pp. 139-160). CRC Press.
+- [**B1**] **Nath, P.**, & Pandey, P. S. (2025). **A Study on Machine Learning and Blockchain-Based Techniques for Transparent VNF Testing for 5G and B5G Networks**. In Blockchain Technology for Cyber Defense, Cybersecurity, and Countermeasures (pp. 139-160). CRC Press.
 
-- **B2** Choudhury, B., Singh, P. K., **Nath, P.**, Roy, U., & Kalla, A. (2025). **Blockchain and Smart Contract for Decentralized and Secure Spectrum Management Toward 6G–Beyond Hype**. Intelligent Spectrum Management: Towards 6G, 211-236.
+- [**B2**] Choudhury, B., Singh, P. K., **Nath, P.**, Roy, U., & Kalla, A. (2025). **Blockchain and Smart Contract for Decentralized and Secure Spectrum Management Toward 6G–Beyond Hype**. Intelligent Spectrum Management: Towards 6G, 211-236.
   
-- **TD1** **Nath, P.** (2025). **The joy and pain of security in the era of generative AI, 5G, and beyond networks**. NIST University
+- [**TD1**] **Nath, P.** (2025). **The joy and pain of security in the era of generative AI, 5G, and beyond networks**. NIST University
 
-- **P1****Nath, P.** & Ghose, M. (2025). **Blockchain-Assisted Confidence-Aware Task Offloading and Resource Allocation for Deep Learning Application in Mobile Cloud Computing**. SPACE 2025 @ IIT Guwahati( Poster presented)
+- [**P1**] **Nath, P.** & Ghose, M. (2025). **Blockchain-Assisted Confidence-Aware Task Offloading and Resource Allocation for Deep Learning Application in Mobile Cloud Computing**. SPACE 2025 @ IIT Guwahati( Poster presented)
 
-- **C1**NP Mohapatra, **P Nath**, SR Pattanaik (2025). **PriBraTFedDL: Federated Deep Learning for Privacy-Preserving Brain Tumor Diagnosis**. In 1st International Conference on Intelligent Computing, Cognitive Networks, and Smart Systems (IC2NS2)-2026 (Presented, Publication awaiting)
+- [**C1**[ NP Mohapatra, **P Nath**, SR Pattanaik (2025). **PriBraTFedDL: Federated Deep Learning for Privacy-Preserving Brain Tumor Diagnosis**. In 1st International Conference on Intelligent Computing, Cognitive Networks, and Smart Systems (IC2NS2)-2026 (Presented, Publication awaiting)
 ---
 
 ## Research works under review:
