@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Er. Panchanan Nath! 
+# Hi, I'm Er. Panchanan Nath
 
 ## 🎓 PhD Scholar 🛡️ System, Network and Security Researcher 🧠 Human in the era of AI
 
@@ -197,7 +197,7 @@ Higher the security lower the usability || Lower the security higher the usabili
 
 ---
 
-*Last updated: May 2026*
+*Last updated: June 2026*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PanchananNath&color=green&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/PanchananNath?style=social)](https://github.com/PanchananNath)
