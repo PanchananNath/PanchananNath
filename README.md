@@ -45,7 +45,7 @@
 
 ## Research works under review:
 
-- [**B3**] D Roy, **P Nath**, M Ghose, (2026). Performance and energy-aware deep learning workload deployment on resource-constrained edge devices. 
+- to be update.... 
   
 ---
 
