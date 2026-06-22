@@ -9,7 +9,7 @@
 
 ## Research domain & expertise
 
-####  Intermittent computing | Compiler assisted program analysis | Multi-access edge computing | Early exit Deep Learning | Blockchain | 5G & B5G | Cyber security
+####  Compiler assisted program analysis | Multi-access edge computing | Early exit Deep Learning | Intermittent computing | Blockchain | 5G & B5G | Cyber security
 </div>
 
 ---
