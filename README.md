@@ -45,7 +45,8 @@
 
 ## Research works under review:
 
-- to be update.... 
+- Performance and energy-aware deep learning workload deployment on resource-constrained edge devices
+- Confidence-aware Early-Exit Neural Networks for Arrhythmia Classification on Resource-Constrained Edge Devices
   
 ---
 
