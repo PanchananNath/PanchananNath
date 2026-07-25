@@ -119,7 +119,6 @@
 ![Recon-ng](https://img.shields.io/badge/Recon--ng-2F4F4F?logo=security&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-008B8B?logo=terminal&logoColor=white)
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-2E8B57?logo=security&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-FFA500?logo=security&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-DC143C?logo=security&logoColor=white)
 
 ### Standard Documentation Tools for Academic Research & Writing
@@ -127,7 +126,6 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)
 ![Mendeley](https://img.shields.io/badge/Mendeley-A41F35?logo=mendeley&logoColor=white)
-![EndNote](https://img.shields.io/badge/EndNote-FF0000?logo=endnote&logoColor=white)
 ![Grammarly](https://img.shields.io/badge/Grammarly-15C39A?logo=grammarly&logoColor=white)
 ![Turnitin](https://img.shields.io/badge/Turnitin-FF0000?logo=turnitin&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
@@ -198,7 +196,7 @@ Higher the security lower the usability || Lower the security higher the usabili
 
 ---
 
-*Last updated: June 2026*
+*Last updated: July 2026*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PanchananNath&color=green&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/PanchananNath?style=social)](https://github.com/PanchananNath)
