@@ -169,6 +169,24 @@
   - C5. 1st International Conference on Intelligent Computing and Knowledge Extraction (ICICKE - 2025) :: Bengaluru, India
   - C6. 3rd International Conference on Data Science and Information System (ICDSIS - 2025) :: Hassan, India
   
+**Awards and Achivements:**
+-  **Travel grant** by IEEE and ACM India. 
+
+- **Hall of Fame** by EC-Council University, USA. 
+
+- **Certified Trustee** of CyberArk Software Ltd, USA.
+
+- **Invited as Speaker** for 9th WEC-2023, Osaka, Japan.
+
+- **Best Researcher Award 2024** under Indian Scientists Award by Indian Scientist.
+
+- Selected for 5th Scientific School on Blockchain and Distributed Technologies 2024 at the **University of Cagliari, Italy** (One among the top 20 candidates out of 5000+ candidates around the world)
+
+- 2nd position at 25th State level National Children Science Congress ( NCSC ) Assam.
+
+- **Anundoram Borooah Award** 2014, Govt. of Assam
+
+  
 **Impact:**
 - **500+ Students Mentored** in cybersecurity domains through ASDM, NIELIT, Cyber X Secure Club, and EncryptoCyberspace
 - **Multiple Research Publications** in core ranked conferences and high-impact journals
