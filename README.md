@@ -50,6 +50,54 @@
   
 ---
 
+##  Academic & Professional Roles
+
+**Academic Positions:**
+- **Doctoral Researcher (PhD)** - IIIT Guwahati 
+- **Project Staff** - Dept. of CSE, IIIT Guwahati, funded by - Assam Science Technology & Environment Council (ASTEC)
+- **Ex-Assistant Professor** - NIST University, Odisha, India
+- **Ex-Graduate Research Fellow** - EC-Council University, USA
+- **Ex-Teaching Assistant** - National Institute of Electronics and Information Technology Guwahati (NIELIT Guwahati)
+- **Ex-Teaching Assistant** - Dept. of CSE, Central Institute of Technology Kokrajhar (CITK) 
+
+**Professional Roles:**
+- **Founder & CEO** - EncryptoCyberspace
+- **Cyber Crime Intervention Officer** - Information Sharing And Analysis Center
+- **Ex-Cyber Security Research Associate** - Research and Development (R&D) team,  EC-Council
+- **Ex-ARIIA Coordinator** - Institute Innovation Council, NIST University
+- **Ex-Associate Editor** - Compute@NIST Departmental E-magazine
+- Technical and academic reviewer
+  - J1. IEEE Open Access Journal for Communication Society.
+  - C2. 1st International Conference on Sustainable Computing and Intelligent Systems (ICSCIS 2025) :: Jaipur, India
+  - C3. International Conference on Digital Technologies and Applications :: Ifrane, Morocco
+  - C4. 3rd International Conference on Data Science and Network Security (ICDSNS-2025)  :: Tiptur, India
+  - C5. 1st International Conference on Intelligent Computing and Knowledge Extraction (ICICKE - 2025) :: Bengaluru, India
+  - C6. 3rd International Conference on Data Science and Information System (ICDSIS - 2025) :: Hassan, India
+  
+**Awards and Achivements:**
+- **Chief Minister's Jibon Prerana Scheme 2026**,  Govt. of Assam
+-  **Fellowship** to attend SPACE 2025 at IIT Guwahati India, 2025.
+- **Best Researcher Award 2024** under Indian Scientists Award by Indian Scientist, 2024.
+- Selected for 5th Scientific School on Blockchain and Distributed Technologies 2024 at the **University of Cagliari, Italy** (One among the top 20 candidates out of 5000+ candidates around the world), 2024.
+-  **Travel grant** to attend CCGrid 2023 at IISc Bangalore by IEEE and ACM India, 2023.
+- **Invited as Speaker** for 9th WEC-2023, Osaka, Japan, 2023.
+- **Hall of Fame** by EC-Council University, USA, 2021. 
+- **Certified Trustee** of CyberArk Software Ltd, USA, 2021.
+- 2nd position at 25th State level National Children Science Congress ( NCSC ) Assam, 2017
+- **Anundoram Borooah Award** 2014, Govt. of Assam
+
+
+  
+**Impact:**
+- **500+ Students Mentored** in cybersecurity domains through ASDM, NIELIT, Cyber X Secure Club, and EncryptoCyberspace
+- **Industry Collaborations** with EC-Council R&D Team, NIELIT, ASDM etc.
+
+---
+
+**Research Collaborations:** Open for academic collaborations and industry consultations  
+**Speaking:** Available for online talks, hands-on sessions, tutorials for conferences, workshops on system, network and cybersecurity domain  
+**Mentoring:** Passionate about guiding next-generation system and security professionals
+
 ## Technical Skills & Tools
 
 <div align="left">
@@ -145,54 +193,7 @@
 
 ---
 
-##  Academic & Professional Roles
 
-**Academic Positions:**
-- **Doctoral Researcher (PhD)** - IIIT Guwahati 
-- **Project Staff** - Dept. of CSE, IIIT Guwahati, funded by - Assam Science Technology & Environment Council (ASTEC)
-- **Ex-Assistant Professor** - NIST University, Odisha, India
-- **Ex-Graduate Research Fellow** - EC-Council University, USA
-- **Ex-Teaching Assistant** - National Institute of Electronics and Information Technology Guwahati (NIELIT Guwahati)
-- **Ex-Teaching Assistant** - Dept. of CSE, Central Institute of Technology Kokrajhar (CITK) 
-
-**Professional Roles:**
-- **Founder & CEO** - EncryptoCyberspace
-- **Cyber Crime Intervention Officer** - Information Sharing And Analysis Center
-- **Ex-Cyber Security Research Associate** - Research and Development (R&D) team,  EC-Council
-- **Ex-ARIIA Coordinator** - Institute Innovation Council, NIST University
-- **Ex-Associate Editor** - Compute@NIST Departmental E-magazine
-- Technical and academic reviewer
-  - J1. IEEE Open Access Journal for Communication Society.
-  - C2. 1st International Conference on Sustainable Computing and Intelligent Systems (ICSCIS 2025) :: Jaipur, India
-  - C3. International Conference on Digital Technologies and Applications :: Ifrane, Morocco
-  - C4. 3rd International Conference on Data Science and Network Security (ICDSNS-2025)  :: Tiptur, India
-  - C5. 1st International Conference on Intelligent Computing and Knowledge Extraction (ICICKE - 2025) :: Bengaluru, India
-  - C6. 3rd International Conference on Data Science and Information System (ICDSIS - 2025) :: Hassan, India
-  
-**Awards and Achivements:**
-- **Chief Minister's Jibon Prerana Scheme 2026**,  Govt. of Assam
--  **Fellowship** to attend SPACE 2025 at IIT Guwahati India, 2025.
-- **Best Researcher Award 2024** under Indian Scientists Award by Indian Scientist, 2024.
-- Selected for 5th Scientific School on Blockchain and Distributed Technologies 2024 at the **University of Cagliari, Italy** (One among the top 20 candidates out of 5000+ candidates around the world), 2024.
--  **Travel grant** to attend CCGrid 2023 at IISc Bangalore by IEEE and ACM India, 2023.
-- **Invited as Speaker** for 9th WEC-2023, Osaka, Japan, 2023.
-- **Hall of Fame** by EC-Council University, USA, 2021. 
-- **Certified Trustee** of CyberArk Software Ltd, USA, 2021.
-- 2nd position at 25th State level National Children Science Congress ( NCSC ) Assam, 2017
-- **Anundoram Borooah Award** 2014, Govt. of Assam
-
-
-  
-**Impact:**
-- **500+ Students Mentored** in cybersecurity domains through ASDM, NIELIT, Cyber X Secure Club, and EncryptoCyberspace
-- **Multiple Research Publications** in core ranked conferences and high-impact journals
-- **Industry Collaborations** with EC-Council R&D Team, NIELIT, ASDM etc.
-
----
-
-**Research Collaborations:** Open for academic collaborations and industry consultations  
-**Speaking:** Available for online talks, hands-on sessions, tutorials for conferences, workshops on system, network and cybersecurity domain  
-**Mentoring:** Passionate about guiding next-generation system and security professionals
 
 ---
 
