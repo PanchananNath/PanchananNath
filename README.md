@@ -170,21 +170,17 @@
   - C6. 3rd International Conference on Data Science and Information System (ICDSIS - 2025) :: Hassan, India
   
 **Awards and Achivements:**
--  **Travel grant** by IEEE and ACM India. 
-
-- **Hall of Fame** by EC-Council University, USA. 
-
-- **Certified Trustee** of CyberArk Software Ltd, USA.
-
-- **Invited as Speaker** for 9th WEC-2023, Osaka, Japan.
-
-- **Best Researcher Award 2024** under Indian Scientists Award by Indian Scientist.
-
-- Selected for 5th Scientific School on Blockchain and Distributed Technologies 2024 at the **University of Cagliari, Italy** (One among the top 20 candidates out of 5000+ candidates around the world)
-
-- 2nd position at 25th State level National Children Science Congress ( NCSC ) Assam.
-
+- **Chief Minister's Jibon Prerana Scheme 2026**,  Govt. of Assam
+-  **Fellowship** to attend SPACE 2025 at IIT Guwahati India, 2025.
+- **Best Researcher Award 2024** under Indian Scientists Award by Indian Scientist, 2024.
+- Selected for 5th Scientific School on Blockchain and Distributed Technologies 2024 at the **University of Cagliari, Italy** (One among the top 20 candidates out of 5000+ candidates around the world), 2024.
+-  **Travel grant** to attend CCGrid 2023 at IISc Bangalore by IEEE and ACM India, 2023.
+- **Invited as Speaker** for 9th WEC-2023, Osaka, Japan, 2023.
+- **Hall of Fame** by EC-Council University, USA, 2021. 
+- **Certified Trustee** of CyberArk Software Ltd, USA, 2021.
+- 2nd position at 25th State level National Children Science Congress ( NCSC ) Assam, 2017
 - **Anundoram Borooah Award** 2014, Govt. of Assam
+
 
   
 **Impact:**
