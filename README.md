@@ -12,7 +12,6 @@
 ####  Compiler assisted program analysis | Multi-access edge computing | Early exit Deep Learning | Intermittent computing | Blockchain | Cyber security | 5G & B5G 
 </div>
 
----
 
 ## Sponsored Research Projects
 
