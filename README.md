@@ -189,10 +189,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PanchananNath&theme=dark)](https://github.com/PanchananNath)
 
 </div>
-
+---
 
 <div align="center">
----
+
   
 ##  "Security is neither a product, nor a process but the philosophy"  
 
