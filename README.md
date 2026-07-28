@@ -201,9 +201,6 @@ The Philosophy is
 Higher the security lower the usability || Lower the security higher the usability.
 
 
-
-###  Building tiny secure systems ||  Advancing research ||  Educating future experts
-
 ---
 
 *Last updated: July 2026*
