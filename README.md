@@ -2,14 +2,14 @@
   
 # Hi, I'm Er. Panchanan Nath
 
-## 🎓 PhD Scholar 🛡️ System, Network and Security Researcher 🧠 Human in the era of AI
+##  PhD Scholar :>: System, Network and Security Researcher :>: Human in the era of AI
 
 </div>
 
 
 ## Research domain & expertise
 
-####  Compiler assisted program analysis | Multi-access edge computing | Early exit Deep Learning | Intermittent computing | Blockchain | Cyber security | 5G & B5G 
+####  Compiler assisted program analysis | Multi-access edge computing | Early exit deep learning | Intermittent computing | Blockchain | Cyber security | 5G & B5G 
 </div>
 
 
