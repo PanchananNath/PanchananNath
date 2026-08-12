@@ -46,6 +46,7 @@
 
 - Performance and energy-aware deep learning workload deployment on resource-constrained edge devices
 - Confidence-aware Early-Exit Neural Networks for Arrhythmia Classification on Resource-Constrained Edge Devices
+- Security and Memory Access Pattern-Driven Application Execution under Near Memory Processing Paradigm
   
 ---
 
