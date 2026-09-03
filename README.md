@@ -214,9 +214,6 @@ Higher the security lower the usability || Lower the security higher the usabili
 
 
 
-
-
-
 </div>
 
 ---
