@@ -95,7 +95,7 @@
 ---
 
 **Research Collaborations:** Open for academic collaborations and industry consultations  
-**Speaking:** Available for online talks, hands-on sessions, tutorials for conferences, workshops on system, network and cybersecurity domain  
+**Speaking:** Available for online talks, hands-on sessions, tutorials for conferences, workshops on system, network and cybersecurity
 **Mentoring:** Passionate about guiding next-generation system and security professionals
 
 ## Technical Skills & Tools
