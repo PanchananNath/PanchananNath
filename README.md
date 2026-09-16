@@ -53,7 +53,7 @@
 ##  Academic & Professional Roles
 
 **Academic Positions:**
-- **Doctoral Researcher (PhD)** - IIIT Guwahati 
+- **Researcher** - IIIT Guwahati 
 - **Project Staff** - Dept. of CSE, IIIT Guwahati, funded by - Assam Science Technology & Environment Council (ASTEC)
 - **Ex-Assistant Professor** - NIST University, Odisha, India
 - **Ex-Graduate Research Fellow** - EC-Council University, USA
