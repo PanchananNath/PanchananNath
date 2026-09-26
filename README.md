@@ -73,30 +73,53 @@
   - C4. 3rd International Conference on Data Science and Network Security (ICDSNS-2025)  :: Tiptur, India
   - C5. 1st International Conference on Intelligent Computing and Knowledge Extraction (ICICKE - 2025) :: Bengaluru, India
   - C6. 3rd International Conference on Data Science and Information System (ICDSIS - 2025) :: Hassan, India
-  
-**Awards and Achivements:**
-- **Chief Minister's Jibon Prerana Scheme 2026**,  Govt. of Assam
--  **Fellowship** to attend SPACE 2025 at IIT Guwahati India, 2025.
-- **Best Researcher Award 2024** under Indian Scientists Award by Indian Scientist, 2024.
-- Selected for 5th Scientific School on Blockchain and Distributed Technologies 2024 at the **University of Cagliari, Italy** (One among the top 20 candidates out of 5000+ candidates around the world), 2024.
--  **Travel grant** to attend CCGrid 2023 at IISc Bangalore by IEEE and ACM India, 2023.
-- **Invited as Speaker** for 9th WEC-2023, Osaka, Japan, 2023.
-- **Hall of Fame** by EC-Council University, USA, 2021. 
-- **Certified Trustee** of CyberArk Software Ltd, USA, 2021.
-- 2nd position at 25th State level National Children Science Congress ( NCSC ) Assam, 2017
-- **Anundoram Borooah Award** 2014, Govt. of Assam
-
-
-  
-**Impact:**
-- **500+ Students Mentored** in cybersecurity domains through ASDM, NIELIT, Cyber X Secure Club, and EncryptoCyberspace
-- **Industry Collaborations** with EC-Council R&D Team, NIELIT, ASDM etc.
 
 ---
 
-**Research Collaborations:** Open for academic collaborations and industry consultations  
-**Speaking:** Available for online talks, hands-on sessions, tutorials for conferences, workshops on system, network and cybersecurity
-**Mentoring:** Passionate about guiding next-generation system and security professionals
+
+## Honors, Awards & Distinctions
+
+|   Year   | Award / Recognition                                                                         | Organization / Venue             |
+| :------: | :------------------------------------------------------------------------------------------ | :------------------------------- |
+| **2026** | **Chief Minister's Jibon Prerana Scheme**                                                   | Government of Assam              |
+| **2025** | **Fellowship Recipient — SPACE 2025**                                                       | IIT Guwahati, India              |
+| **2024** | **Best Researcher Award** — Indian Scientists Award                                         | Indian Scientist                 |
+| **2024** | **Selected Candidate — 5th Scientific School on Blockchain and Distributed Technologies**   | University of Cagliari, Italy    |
+| **2023** | **Travel Grant — CCGrid 2023**                                                              | IEEE & ACM India, IISc Bangalore |
+| **2023** | **Invited Speaker — 9th WEC 2023**                                                          | Osaka, Japan                     |
+| **2021** | **Hall of Fame**                                                                            | EC-Council University, USA       |
+| **2021** | **Certified Trustee**                                                                       | CyberArk Software Ltd., USA      |
+| **2017** | **2nd Position — 25th State-Level National Children's Science Congress (NCSC)**             | Assam                            |
+| **2014** | **Anundoram Borooah Award**                                                                 | Government of Assam              |
+
+> **Notable Distinction:** Selected among the **top 20 candidates from 5,000+ applicants worldwide** for the 5th Scientific School on Blockchain and Distributed Technologies, University of Cagliari, Italy (2024).
+
+---
+
+##  Mentoring & Academic Impact
+
+| Area                       | Contribution                                                                                |
+| :------------------------- | :------------------------------------------------------------------------------------------ |
+| **Student Mentoring**      | Mentored **500+ students** in cybersecurity and related domains                             |
+| **Training & Outreach**    | ASDM, NIELIT, Cyber X Secure Club, and EncryptoCyberspace                                   |
+| **Industry Collaboration** | Collaborations with EC-Council R&D, NIELIT, ASDM, and other academic/industry organizations |
+| **Research Engagement**    | Open to academic, interdisciplinary, and industry research collaborations                   |
+| **Invited Speaking**       | Open for Talks, seminars, tutorials, hands-on sessions, conferences, and cybersecurity workshops     |
+| **Professional Mentoring** | Open for Mentoring students, early-career researchers, and cybersecurity professionals               |
+
+---
+
+## Research & Professional Engagement
+
+* **Research Collaborations:** Open to academic, interdisciplinary, and industry research collaborations.
+* **Industry Consultation:** Available for cybersecurity and technology-focused consulting and collaborative projects.
+* **Invited Talks:** Available for conferences, workshops, seminars, tutorials, and hands-on technical sessions.
+* **Mentoring:** Interested in mentoring students, researchers, and aspiring cybersecurity professionals.
+
+
+
+---
+
 
 ## Technical Skills & Tools
 
