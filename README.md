@@ -82,14 +82,14 @@
 |   Year   | Award / Recognition                                                                         | Organization / Venue             |
 | :------: | :------------------------------------------------------------------------------------------ | :------------------------------- |
 | **2026** | **Chief Minister's Jibon Prerana Scheme**                                                   | Government of Assam              |
-| **2025** | **Fellowship Recipient — SPACE 2025**                                                       | IIT Guwahati, India              |
-| **2024** | **Best Researcher Award** — Indian Scientists Award                                         | Indian Scientist                 |
-| **2024** | **Selected Candidate — 5th Scientific School on Blockchain and Distributed Technologies**   | University of Cagliari, Italy    |
-| **2023** | **Travel Grant — CCGrid 2023**                                                              | IEEE & ACM India, IISc Bangalore |
-| **2023** | **Invited Speaker — 9th WEC 2023**                                                          | Osaka, Japan                     |
+| **2025** | **Fellowship Recipient - SPACE 2025**                                                       | SPACE 2025, IIT Guwahati, India  |
+| **2024** | **Best Researcher Award** - Indian Scientists Award                                         | Indian Scientist                 |
+| **2024** | **Selected Candidate - 5th Scientific School on Blockchain and Distributed Technologies**   | University of Cagliari, Italy    |
+| **2023** | **Travel Grant - CCGrid 2023**                                                              | IEEE & ACM India, IISc Bangalore |
+| **2023** | **Invited Speaker - 9th WEC 2023**                                                          | 9th WEC, Osaka, Japan            |
 | **2021** | **Hall of Fame**                                                                            | EC-Council University, USA       |
 | **2021** | **Certified Trustee**                                                                       | CyberArk Software Ltd., USA      |
-| **2017** | **2nd Position — 25th State-Level National Children's Science Congress (NCSC)**             | Assam                            |
+| **2017** | **2nd Position - 25th State-Level National Children's Science Congress (NCSC)**             | Government of Assam              |
 | **2014** | **Anundoram Borooah Award**                                                                 | Government of Assam              |
 
 > **Notable Distinction:** Selected among the **top 20 candidates from 5,000+ applicants worldwide** for the 5th Scientific School on Blockchain and Distributed Technologies, University of Cagliari, Italy (2024).
@@ -100,7 +100,7 @@
 
 | Area                       | Contribution                                                                                |
 | :------------------------- | :------------------------------------------------------------------------------------------ |
-| **Student Mentoring**      | Mentored **500+ students** in cybersecurity and related domains                             |
+| **Student Mentoring**      | Mentored **1000+ students** in cybersecurity and related domains                             |
 | **Training & Outreach**    | ASDM, NIELIT, Cyber X Secure Club, and EncryptoCyberspace                                   |
 | **Industry Collaboration** | Collaborations with EC-Council R&D, NIELIT, ASDM, and other academic/industry organizations |
 | **Research Engagement**    | Open to academic, interdisciplinary, and industry research collaborations                   |
