@@ -40,11 +40,12 @@
 - [**P1**] **Nath, P.** & Ghose, M. (2025). **Blockchain-Assisted Confidence-Aware Task Offloading and Resource Allocation for Deep Learning Application in Mobile Cloud Computing**. SPACE 2025 @ IIT Guwahati( Poster presented)
 
 - [**C3**] NP Mohapatra, **P Nath**, SR Pattanaik (2025). **PriBraTFedDL: Federated Deep Learning for Privacy-Preserving Brain Tumor Diagnosis**. In 1st International Conference on Intelligent Computing, Cognitive Networks, and Smart Systems (IC2NS2)-2026 (Presented, Publication awaiting)
+
+- [**B3**] Roy D., Nath, P. & Ghose, M. (2026) **Performance and energy-aware deep learning workload deployment on resource-constrained edge devices**. Handbook of Embedded Machine Learning: Cyber-Physical, IoT, and Edge Computing -26.
 ---
 
 ## Research works under review:
 
-- Performance and energy-aware deep learning workload deployment on resource-constrained edge devices
 - Confidence-aware Early-Exit Neural Networks for Arrhythmia Classification on Resource-Constrained Edge Devices
 - Security and Memory Access Pattern-Driven Application Execution under Near Memory Processing Paradigm
   
